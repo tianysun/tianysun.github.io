@@ -39,13 +39,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "sun00234@umn.edu"
+#  facebook: deanattali
+  github: TianyiSun00234
+#  twitter: daattali
 #  patreon: DeanAttali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Tianyi Sun
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
