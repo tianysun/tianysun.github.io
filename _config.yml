@@ -15,11 +15,7 @@ author: Tianyi Sun
 
 navbar-links:
   About Me: "aboutme"
-    - Education:
-    - Honors:
-    - Teaching:
-    - Latin Dance: 
-    - Interests: 
+
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
