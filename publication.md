@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Publications
 
 ---
 * **How Personal Perceptions of COVID-19 Have Changed Over Time** 
