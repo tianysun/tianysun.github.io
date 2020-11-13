@@ -9,4 +9,4 @@ title: Teaching
 
 * **Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic**. Long Paper.
   * Cora Brown Sarah Milstein **Tianyi Sun** Cooper Zhao
-  * Under review in Society for Industrial and Applied Mathematics.
+  * Under review in Society for Industrial and Applied Mathematics(SIAM2021).
