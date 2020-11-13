@@ -6,8 +6,7 @@ title: About me
 
 I am an Undergraduate student in the [School of Mathematics](https://math.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Prof.[Maria Gini](https://www-users.cs.umn.edu/~gini/). 
 
-I interned at CenterPoint Energy supervised by TengranLiu. I'm also in the Ecolab - UMN Collaboration 
-
+I interned at CenterPoint Energy as a data analyst supervised by TengranLiu. After that I am a competition team member in the Ecolab - UMN Collaboration leaded by Jimmy Broomfield and Sarah Milstein conducted research projects, competitions, and modeling challenges. I am also a member in the Chatbot Group, where I do independed research in NLP. 
 
 My **research interests** lie in the general area of machine learning, particularly in deep learning, supervised learning, unsupervised learning, statistical modeling as well as their applications in natural language processing, and sequential decision making. I am also interested in applying AI techniques to address societal challenges, such as COVID-19 pandemic.
 
