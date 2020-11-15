@@ -11,3 +11,4 @@ tags: [books, test]
 ![](/assets/img/welcomeweek3.jpg)
 I was so excited in the first several days in the school, I meet lots of friends and also meet my second years roomate! I feel a sense of belongings! 😄
 ![](/assets/img/welcomeweek1.jpg)
+![](/assets/img/head.jpg)
