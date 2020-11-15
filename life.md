@@ -5,4 +5,4 @@ title: Life
 
 ---
 
-![Galle](TianyiSun00234/my-info/WechatIMG1539.jpeg)
+![Galle](https://github.com/TianyiSun00234/my-info/blob/main/WechatIMG1539.jpeg)
