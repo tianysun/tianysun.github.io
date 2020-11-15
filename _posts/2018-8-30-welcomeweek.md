@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/welcomeweek3.jpg
 share-img: /assets/img/welcomeweek3.jpg
 tags: [books, test]
 ---
-I was so excited in the first several days in the school, I meet lots of friends and also meet my second years roomate. 
+
 ![](/assets/img/welcomeweek3.jpg)
+I was so excited in the first several days in the school, I meet lots of friends and also meet my second years roomate! I feel a sense of belongings! 😄
 ![](/assets/img/welcomeweek1.jpg)
