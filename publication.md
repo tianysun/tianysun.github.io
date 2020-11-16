@@ -6,7 +6,7 @@ title: Publications
 * **How Personal Perceptions of COVID-19 Have Changed Over Time** 
   * **Tianyi Sun**
   * Under review of the 35th AAAI Conference on Artificial Intelligence. AAAI 2021. [Paper](assets/img/How Personal Perceptions of COVID-19 Have Changed Over Time.pdf)
-  * Presented in Chatbots group, Oct 1st. [Slides](assets/img/How Personal Perceptions Of COVID-19 Have Changed Over Time Slides.pdf) 
+  * Presented in the Chatbot group, Oct 1st. [Slides](assets/img/How Personal Perceptions Of COVID-19 Have Changed Over Time Slides.pdf) 
 
 * **Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic**. 
   * Cora Brown Sarah Milstein **Tianyi Sun** Cooper Zhao
