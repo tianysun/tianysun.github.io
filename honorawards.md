@@ -20,6 +20,6 @@ title: Honors&Awards
 * Volunteer English teacher at Beijing’s No.2 primary school and Galle, Sri Lanka. from Fall 2015 to Winter 2018
 
 
-* 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship Latin Spring 2019
+* 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship Latin Dance J/C/R Spring 2019
 
 * 2nd Place in Dance Fest, Cody Arndston Amateur Silver International Latin S/C/R Spring 2019
