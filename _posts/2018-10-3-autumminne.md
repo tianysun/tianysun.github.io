@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autumn in Minnesota 
-subtitle: Red Wing & Maiden Rock and I.
+subtitle: Autumn and I.
 cover-img: /assets/img/autom.jpg
 thumbnail-img: /assets/img/icon2.jpg
 share-img: /assets/img/icon2.jpg
