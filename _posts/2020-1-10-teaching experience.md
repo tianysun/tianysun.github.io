@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaching in Galle, Sir Lanka 
-subtitle: by Tianyi Sun
+subtitle: Galle and I.
 cover-img: /assets/img/galle_edit.jpg
 thumbnail-img: /assets/img/teachiii.jpg
 share-img: /assets/img/teachiii.jpg
