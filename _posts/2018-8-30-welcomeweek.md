@@ -9,6 +9,6 @@ tags: [books, test]
 ---
 
 ![](/assets/img/welcomeweek3.jpg)
-I was so excited in the first several days in the school, I met lots of friends and also met my second year's roomate! I felt a sense of belongings in the U! 😄
+I was so excited in the first several days at the U, I met lots of friends and also met my second year's roomate! I felt a sense of belongings at the U of MN!❤️
 ![](/assets/img/welcomeweek1.jpg)
 ![](/assets/img/head.jpg)
