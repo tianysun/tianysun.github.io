@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome Week at the University of Minnesota - Twin Cities
-subtitle: by Tianyi Sun
+subtitle: UMN-TC and I.
 cover-img: /assets/img/welcomweek2.jpg
 thumbnail-img: /assets/img/welcomeweek3.jpg
 share-img: /assets/img/welcomeweek3.jpg
