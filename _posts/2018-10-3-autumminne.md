@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autumn in Minnesota 
-subtitle: Autumn and I.
+subtitle: Beautiful Autumn.
 cover-img: /assets/img/autom.jpg
 thumbnail-img: /assets/img/icon2.jpg
 share-img: /assets/img/icon2.jpg
