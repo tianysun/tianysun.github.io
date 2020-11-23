@@ -14,5 +14,5 @@ title: Publications
   * Cora Brown, Sarah Milstein, **Tianyi Sun**, Cooper Zhao
   * Under review in Society for Industrial and Applied Mathematics. SIAM 2021. [Long Paper.](assets/img/Clustering_write_up.pdf)
 
-* **A survey of compartmental disease models for predicting theprogression of COVID-19**
+* **A survey of compartmental disease models for predicting the progression of COVID-19**
   * Khoi Mai, **Tianyi Sun**, Hena Ghonia, Skye Ke, Chen Yu, and Jimmy Broomfield
