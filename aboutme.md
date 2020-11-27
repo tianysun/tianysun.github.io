@@ -4,7 +4,7 @@ title: About me
 
 ---
 
-I am currently a senior undergraduate student in the [School of Mathematics](https://math.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/), major in Mathematics and minor in Computer Science and Statistics, advised by Prof.[Maria Gini](https://www-users.cs.umn.edu/~gini/) in the [Department of Computer Science and Engineering](https://cse.umn.edu/cs). 
+I am currently a senior undergraduate student in the [School of Mathematics](https://math.umn.edu/) at the [University of Minnesota- Twin Cities](https://twin-cities.umn.edu/), major in Mathematics and minor in Computer Science and Statistics, advised by Prof.[Maria Gini](https://www-users.cs.umn.edu/~gini/) in the [Department of Computer Science and Engineering](https://cse.umn.edu/cs). 
 
 I interned at CenterPoint Energy as a data analyst supervised by TengranLiu. I am in Ecolab-UMN collaboration hold by Jimmy Broomfield in which I am in Jimmy Broomfield's competition team and Sarah Milstein's COVID-19 project group. I am also an independent researcher in Prof. Maria Gini's Chatbot Group.
 
