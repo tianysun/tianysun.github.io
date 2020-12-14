@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Papers
 
 ---
 * **How Personal Perceptions of COVID-19 Have Changed Over Time** 
   * **Tianyi Sun**
-  * Under review of the 35th AAAI Conference on Artificial Intelligence. AAAI 2021.
   * Presented in the Chatbot group, Oct 1st. 
   * [Paper](/assets/img/AAAI_UC (1).pdf) | [Code](https://github.com/TianyiSun00234/aaai-How-Personal-Perceptions-of-COVID-19-Have-Changed-Over-Time) | [Slides](assets/img/How Personal Perceptions Of COVID-19 Have Changed Over Time Slides.pdf) 
 
