@@ -22,6 +22,4 @@ title: Honors&Awards
 
 * Vice President of the Central Uni. of Finance and Econ. Students Union from Fall 2016 to Spring 2018
 
-* Volunteer English teacher at Beijing’s No.2 primary school and Galle, Sri Lanka. from Fall 2015 to Winter 2018
-
 * Communications Coordinator of Beijing Daxing district No. 1 middle school from Fall 2014 to Spring 2016
