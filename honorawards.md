@@ -32,6 +32,6 @@ title: Honors&Awards
 
 * Gold Medals Certificate in China Ballroom Dance Federation on Feb 9th, 2012.
 
-* Bronze and Silver Medal Certificates in China Ballroom Dance Federation on Mar 23rd, 2011.
+* Silver and Bronze Medal Certificates in China Ballroom Dance Federation on Mar 23rd, 2011.
 
 * The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student in 2010.
