@@ -5,7 +5,7 @@ subtitle: Galle and I.
 cover-img: /assets/img/galle_edit.jpg
 thumbnail-img: /assets/img/teachiii.jpg
 share-img: /assets/img/teachiii.jpg
-tags: [books, test]
+
 ---
 
 [Link to the description of my teaching experience!](https://tianyisun00234.github.io/teaching/)
