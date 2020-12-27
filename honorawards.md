@@ -16,7 +16,7 @@ title: Honors&Awards
 
 * Recieved return offer from CenterPoint Company in Spring 2020.
 
-* 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship Latin Dance J/C/R in Chicago in Spring 2019.
+* 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship International Latin Dance J/C/R in Chicago in Spring 2019.
 
 * 2nd Place in Dance Fest, Cody Arndston Amateur Silver International Latin S/C/R in Minneapolis in Spring 2019.
 
@@ -26,6 +26,10 @@ title: Honors&Awards
 
 * Communications Coordinator of Beijing Daxing district No. 1 middle school from Fall 2014 to Spring 2016.
 
-* A list of selected Internation Latin Dance Championship Awards and Certificates in 2009, 2011, and 2021.
+* The 1st place in Chorus Contests in the 15th Beijing Art Festival for Student in 2015.
 
-* A list of Chorus Contests Awards in 2010 and 2015.
+* Gold Medals in China Ballroom Dance Federation on Feb 9th, 2012.
+
+* Bronze and Silver Medals in China Ballroom Dance Federation on Mar 23rd, 2011.
+
+* The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student in 2010.
