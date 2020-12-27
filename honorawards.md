@@ -28,6 +28,8 @@ title: Honors&Awards
 
 * The 1st place in Chorus Contests in the 15th Beijing Art Festival for Student in 2015.
 
+* The 3rd place in the fifth International Standard Dance Championship from Asia Dancesport Union in May, 2012.
+
 * Gold Medals Certificate in China Ballroom Dance Federation on Feb 9th, 2012.
 
 * Bronze and Silver Medal Certificates in China Ballroom Dance Federation on Mar 23rd, 2011.
