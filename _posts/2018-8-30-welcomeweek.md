@@ -5,7 +5,7 @@ subtitle: UMN-TC and I.
 cover-img: /assets/img/welcomweek2.jpg
 thumbnail-img: /assets/img/welcomeweek3.jpg
 share-img: /assets/img/welcomeweek3.jpg
-tags: [books, test]
+
 ---
 
 ![](/assets/img/welcomeweek3.jpg)
