@@ -26,12 +26,14 @@ title: Honors&Awards
 
 * Communications Coordinator of Beijing Daxing district No. 1 middle school from Fall 2014 to Spring 2016.
 
-* The 1st place in Chorus Contests in the 15th Beijing Art Festival for Student in 2015.
+* The 1st place in Chorus Contests in the 15th Beijing Art Festival for Student from Beijing Municipal Education Commission in 2015.
 
-* The 3rd place in the fifth International Standard Dance Championship from Asia Dancesport Union in May, 2012.
+* The 3rd place in the fifth International Standard Dance Championship, from Asia Dancesport Union in May, 2012.
 
-* Gold Medals Certificate in China Ballroom Dance Federation on Feb 9th, 2012.
+* Gold Medals Certificate from China Ballroom Dance Federation on Feb 9th, 2012.
 
-* Silver and Bronze Medal Certificates in China Ballroom Dance Federation on Mar 23rd, 2011.
+* Silver and Bronze Medal Certificates from China Ballroom Dance Federation on Mar 23rd, 2011.
 
-* The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student in 2010.
+* The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student from Beijing Municipal Education Commission in 2010.
+
+* The 3rd place in the fifth International Standard Dance Championship, China Ballroom Dance Federation in May, 2009.
