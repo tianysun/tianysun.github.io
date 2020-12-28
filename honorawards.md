@@ -30,7 +30,7 @@ title: Honors&Awards
 
 * The 3rd place in the fifth International Standard Dance Championship, from Asia Dancesport Union in May, 2012.
 
-* Gold Medals Certificate from China Ballroom Dance Federation on Feb 9th, 2012.
+* Received certificate of Gold Medal International Latin Dance from China Ballroom Dance Federation on Feb 9th, 2012.
 
 * The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student from Beijing Municipal Education Commission in 2010.
 
