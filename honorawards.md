@@ -14,8 +14,6 @@ title: Honors&Awards
 
 * Membership of Tau Sigma National Honor Society Uni. of Minnesota - Twin Cities Chapter from Spring 2019 to Present.
 
-* Recieved return offer from CenterPoint Company in Spring 2020.
-
 * 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship International Latin Dance J/C/R in Chicago in Spring 2019.
 
 * 2nd Place in Dance Fest, Cody Arndston Amateur Silver International Latin S/C/R in Minneapolis in Spring 2019.
