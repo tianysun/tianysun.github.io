@@ -4,9 +4,9 @@ title: Honors&Awards
 
 ---
 
-* Research proposal recieved (USD $1,500) grant from the University of Minnesota Office's of Undergraduate Research on Dec 16th, 2020. 👏
+* Research proposal recieved (USD $1,500) grant from the University of Minnesota Office's of Undergraduate Research on Dec 16th, 2020. [📄]() 👏
 
-* Awarded Maroon Global Excellence Scholarship (USD $15,000) from Fall 2018 to Fall 2021.
+* Awarded Maroon Global Excellence Scholarship (USD $15,000) from Fall 2018 to Fall 2021. [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
 
 * Dean’s List of College of Library Art at the University of Minnesota from Spring 2019 to Present.
 
