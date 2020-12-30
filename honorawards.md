@@ -26,10 +26,10 @@ title: Honors&Awards
 
 * The 1st place in Chorus Contests in the 15th Beijing Art Festival for Student from Beijing Municipal Education Commission in 2015. [📄](assets/img/15chorus.jpg)
 
-* The 3rd place in the fifth International Standard Dance Championship, from Asia Dancesport Union in May, 2012. [📄](assets/img/abdf2.jpg)
+* The 3rd place in the fifth ABDF International Standard Dance Championship, from Asia Dancesport Union in May, 2012. [📄](assets/img/abdf2.jpg)
 
 * Received certificate of Gold Medal International Latin Dance from China Ballroom Dance Federation on Feb 9th, 2012.
 
 * The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student from Beijing Municipal Education Commission in 2010.
 
-* The 3rd place in the fifth International Standard Dance Championship, China Ballroom Dance Federation in May, 2009.
+* The 3rd place in the fifth CBDF International Standard Dance Championship, from China Ballroom Dance Federation in May, 2009. [📄](assets/img/2009cbdf.jpg)
