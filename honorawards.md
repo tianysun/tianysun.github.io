@@ -12,7 +12,7 @@ title: Honors&Awards
 
 * Vice president Candidate of Tau Sigma National Honor Society Uni. of Minnesota - Twin Cities Chapter in Fall 2020.
 
-* Membership of Tau Sigma National Honor Society Uni. of Minnesota - Twin Cities Chapter from Spring 2019 to Present. [📄]()
+* Membership of Tau Sigma National Honor Society Uni. of Minnesota - Twin Cities Chapter from Spring 2019 to Present. [📄](assets/img/tau sigma.JPG)
 
 * 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship International Latin Dance J/C/R in Chicago in Spring 2019.
 
