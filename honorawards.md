@@ -18,7 +18,7 @@ title: Honors&Awards
 
 * 2nd Place in Dance Fest, Cody Arndston Amateur Silver International Latin S/C/R in Minneapolis in Spring 2019.
 
-* The Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. on June 8th, 2017.
+* The Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. on June 8th, 2017. [📄]()
 
 * Vice President of the Central Uni. of Finance and Econ. Students Union from Fall 2016 to Spring 2018.
 
@@ -28,8 +28,8 @@ title: Honors&Awards
 
 * The 3rd place in the fifth ABDF International Standard Dance Championship, from Asia Dancesport Union in May, 2012. [📄](assets/img/abdf2.jpg)
 
-* Received certificate of Gold Medal International Latin Dance from China Ballroom Dance Federation on Feb 9th, 2012.
+* Received certificate of Gold Medal International Latin Dance from China Ballroom Dance Federation on Feb 9th, 2012.  [📄](assets/img/gold.jpg)
 
-* The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student from Beijing Municipal Education Commission in 2010.
+* The 2nd place in Chorus Contests in the 13th Beijing Art Festival for Student from Beijing Municipal Education Commission in 2010. [📄](assets/img/13chorus.jpg)
 
 * The 3rd place in the fifth CBDF International Standard Dance Championship, from China Ballroom Dance Federation in May, 2009. [📄](assets/img/2009cbdf.jpg)
