@@ -12,13 +12,13 @@ title: Honors&Awards
 
 * Vice president Candidate of Tau Sigma National Honor Society Uni. of Minnesota - Twin Cities Chapter in Fall 2020.
 
-* Membership of Tau Sigma National Honor Society Uni. of Minnesota - Twin Cities Chapter from Spring 2019 to Present.
+* Membership of Tau Sigma National Honor Society Uni. of Minnesota - Twin Cities Chapter from Spring 2019 to Present. [📄]()
 
 * 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship International Latin Dance J/C/R in Chicago in Spring 2019.
 
 * 2nd Place in Dance Fest, Cody Arndston Amateur Silver International Latin S/C/R in Minneapolis in Spring 2019.
 
-* The Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. on June 8th, 2017. [📄]()
+* The Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. on June 8th, 2017. [📄](assets/img/Best Planning Award.jpg)
 
 * Vice President of the Central Uni. of Finance and Econ. Students Union from Fall 2016 to Spring 2018.
 
