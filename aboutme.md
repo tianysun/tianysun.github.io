@@ -10,5 +10,5 @@ I am an independent researcher in Prof. Maria Gini's Chatbot Group. I am also in
 
 My **research interests** lie in applying mathematics in machine learning, particularly in deep learning and unsupervised learning as well as their applications in sequential decision making, meta-learning, and natural language understanding. I am also interested in applying AI techniques to address societal challenges, such as COVID-19 pandemic.
 
-**International Latin Dance** is a part of my life. I have practiced for fifteen years, which makes me more passionate, energetic, and persistent. I got the Gold Medal Certificate in 2012 and anually participate in Ballroom Dance Championship. In spring 2019, I participated in [NCDC](https://usadancencdc.org/) in Chicago and [Dance Fest](http://udancefest.com/) in St. Paul, Minneapolis. I am looking forward to participate more championships in the future.
+**International Latin Dance** is a part of my life. Fifteen years' training makes me more passionate, energetic, and persistent. I received the Gold Medal Certificate in 2012, national third place in China, and second place in both [NCDC](https://usadancencdc.org/) in Chicago and [Dance Fest](http://udancefest.com/) in St. Paul, Minneapolis.
 
