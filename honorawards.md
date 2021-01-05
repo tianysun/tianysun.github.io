@@ -14,9 +14,9 @@ title: Honors&Awards
 
 * Membership of Tau Sigma National Academic Honor Society Uni. of Minnesota - Twin Cities Chapter from Spring 2019 to Present. [📄](assets/img/tau sigma.JPG)
 
-* 2nd Place in National Collegiate DanceSport Championships, Amateur Collegiate Championship International Latin Dance J/C/R in Chicago in Spring 2019.
+* 2nd Place in National Collegiate DanceSport Championships, International Latin Dance J/C/R in Chicago in Spring 2019. 
 
-* 2nd Place in Dance Fest, Cody Arndston Amateur Silver International Latin S/C/R in Minneapolis in Spring 2019.
+* 2nd Place in Dance Fest, Silver International Latin S/C/R in St. Paul, Minneapolis in Spring 2019.
 
 * The Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. on June 8th, 2017. [📄](assets/img/Best Planning Award.jpg)
 
