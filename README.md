@@ -1,9 +1,9 @@
-[Welcome to my homepage!](https://tianyisun00234.github.io/aboutme/)
+**[Welcome to my homepage!](https://tianyisun00234.github.io/aboutme/)**
 
 
 #### Contributions
 
-Thank you to [all past contributors](https://github.com/daattali/beautiful-jekyll/graphs/contributors). If you find any problems or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.
+Thank you to [all past contributors](https://github.com/daattali/beautiful-jekyll/graphs/contributors). 
 
 You can also contribute by becoming an [official sponsor](https://github.com/sponsors/daattali/sponsorships?tier_id=39856) to help keep Beautiful Jekyll well-maintained.
 
