@@ -8,7 +8,7 @@ I am a senior undergraduate student, major in Mathematics and minor in Computer 
 
 I am an independent researcher in Prof. Maria Gini's Chatbot Group. I am also in Ecolab-UMN collaboration led by Jimmy Broomfield, where I am in Jimmy Broomfield's competition best team and Sarah Milstein's COVID-19 research group. Previously, I interned at CenterPoint Energy as a data analyst supervised by Tengran Liu.
 
-My **research interests** lie in applying mathematics in machine learning, particularly in deep learning and unsupervised learning as well as their applications in sequential decision making, meta-learning, and natural language understanding. I am also interested in applying AI techniques to address societal challenges, such as COVID-19 pandemic.
+My **research interests** lie in applying mathematics in machine learning, particularly in deep learning, unsupervised learning, and Bayesian deep learning, as well as their applications in sequential decision making, meta-learning, and natural language understanding. I am also interested in applying AI techniques to address societal challenges, such as COVID-19 pandemic.
 
 **International Latin Dance** is a part of my life. Fifteen years' training makes me more passionate, energetic, and persistent. I received the [Gold Medal Certificate](assets/img/gold.jpg) from China Ballroom Dance Federation in 2012, the third place in [2012 Asia Ballroom Dance Federation](assets/img/abdf2.jpg) in Beijing, and second place in both [2019 National Collegiate DanceSport Championships](https://usadancencdc.org/) in Chicago and [2019 Dance Fest](http://udancefest.com/) in St. Paul, Minneapolis.
 
