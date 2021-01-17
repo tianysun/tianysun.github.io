@@ -12,5 +12,3 @@ share-img: /assets/img/teachiii.jpg
 ![](/assets/img/teachiii.jpg)
 
 ![](/assets/img/teachchildren.jpg)
-
-![](/assets/img/teachchildren2.jpg)
