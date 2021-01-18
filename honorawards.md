@@ -8,7 +8,7 @@ title: Honors&Awards
 
 * Awarded Maroon Global Excellence Scholarship (USD $15,000) from Fall 2018 to Fall 2021. [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
 
-* Dean’s List from Fall 2018 to Present.
+* Dean’s List from Fall 2018 to present.
 
 * Vice president Candidate of Tau Sigma National Academic Honor Society Uni. of Minnesota - Twin Cities Chapter in Fall 2020.
 
