@@ -4,7 +4,7 @@ title: Honors&Awards
 
 ---
 
-* Research proposal recieved (USD $1,500) grant from the University of Minnesota Office's of Undergraduate Research on Dec 16th, 2020. [📄](assets/img/UROP award letterhead.pdf) 👏
+* Research proposal recieved (USD $1,500) grant from the University of Minnesota Office's of Undergraduate Research on Dec 16th, 2020. [📄](assets/img/UROP award letterhead.pdf) 
 
 * Awarded Maroon Global Excellence Scholarship (USD $15,000) from Fall 2018 to Fall 2021. [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
 
