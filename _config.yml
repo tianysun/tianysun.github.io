@@ -14,11 +14,12 @@ author: Tianyi Sun
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  ABOUT: "aboutme"
   CV: "CV_Tianyi Sun .pdf" 
-  Honor&awards: "honorawards"
-  Papers: "paper"
-  Teaching: "teaching"
+  HONOR: "honorawards"
+  RESEARCH: "paper"
+  COURSE: "courseinfo.pdf"
+  TEACHING: "teaching"
   
 
 # --- Logo --- #
