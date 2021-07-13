@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers
+title: RESEARCH
 
 ---
 * **[Senior Capstone Project: On the Truth Assignment Theorem of the Language of Sentential Logic](/assets/img/seniorcapstoneproject.pdf)**
