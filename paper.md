@@ -5,12 +5,12 @@ title: Papers
 ---
 * **Senior Capstone Project: On the Truth Assignment Theorem of the Language of Sentential Logic**
   * **Tianyi Sun**
-  * [Paper]()
+  * [Paper](/assets/img/seniorcapstoneproject.pdf)
 
 
 * **Directed Research: A Study Of Natural Language Understanding**
   * **Tianyi Sun**
-  * [paper]()
+  * [paper](/assets/img/directedresearch20fall.pdf)
 
 * **How Personal Perceptions of COVID-19 Have Changed Over Time** 
   * **Tianyi Sun**
