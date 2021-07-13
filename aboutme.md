@@ -3,9 +3,11 @@ layout: page
 title: ABOUT ME
 
 ---
-<img src="uc.jpeg" width="80" height="100"> I am an incoming Graduate student in the [Computational and Applied Mathematics](https://cam.uchicago.edu/) program at the [University of Chicago](https://www.uchicago.edu/).                  
+<img src="uc.jpeg" width="80" height="100"> 
+I am an incoming Graduate student in the [Computational and Applied Mathematics](https://cam.uchicago.edu/) program at the [University of Chicago](https://www.uchicago.edu/).                  
 
-<img src="umn.jpeg" width="100" height="100"> I completed my Bachelor's degree in Mathematics (Computer Specialization) and a minor in Statistics at the [University of Minnesota Twin - Cities](https://twin-cities.umn.edu/). 
+<img src="umn.jpeg" width="100" height="100"> 
+I completed my Bachelor's degree in Mathematics (Computer Specialization) and a minor in Statistics at the [University of Minnesota Twin - Cities](https://twin-cities.umn.edu/). 
 
 I was an undergraduate researcher advised by Prof. [Maria Gini](https://www-users.cs.umn.edu/~gini/) and worked with Prof. [karel Prikry](https://de.wikipedia.org/wiki/Karel_Prikry) on [senior capstone project]() and Prof. [Gilad Lerman](http://www-users.math.umn.edu/~lerman/) on [MUDAC](http://www.mudac.org/mankato/). I was in Ecolab-UMN collaboration led by Jimmy Broomfield, where I am in Jimmy Broomfield's forecasting best team and Sarah Milstein's COVID-19 research group. Previously, I interned at CenterPoint Energy as a data analyst supervised by Tengran Liu.
 
