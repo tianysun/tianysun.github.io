@@ -21,5 +21,5 @@ title: Papers
   * [code](https://github.com/TianyiSun00234/Clustering-Project/blob/main/clustering.ipynb)
   
 * **[A survey of compartmental disease models for predicting the progression of COVID-19]()**
-  * Khoi Mai, **Tianyi Sun**, Hena Ghonia, Skye Ke, Chen Yu, and Jimmy Broomfield
+  * Khoi Mai, **Tianyi Sun**, Hena Ghonia, Skye Ke, Chen Yu, and Jimmy Broomfield. 2020.
   * [code]()
