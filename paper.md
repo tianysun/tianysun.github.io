@@ -5,8 +5,7 @@ title: Papers
 ---
 * **Senior Capstone Project: On the Truth Assignment Theorem of the Language of Sentential Logic**
   * **Tianyi Sun**
-  
-  [Paper](/assets/img/seniorcapstoneproject.pdf)
+  *[Paper](/assets/img/seniorcapstoneproject.pdf)
 
 
 * **Directed Research: A Study Of Natural Language Understanding**
