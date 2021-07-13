@@ -3,6 +3,7 @@ layout: page
 title: ABOUT ME
 
 ---
+I am an incoming Graduate student in the [Computational and Applied Mathematics](https://cam.uchicago.edu/) program, at the [University of Chicago](https://www.uchicago.edu/).                  
 
 I am a senior undergraduate student, major in Mathematics(Computer Specialization) and minor in Statistics at the [University of Minnesota- Twin Cities](https://twin-cities.umn.edu/) in the [School of Mathematics](https://math.umn.edu/), advised by Prof.[Maria Gini](https://www-users.cs.umn.edu/~gini/) in the [Department of Computer Science and Engineering](https://cse.umn.edu/cs). 
 
