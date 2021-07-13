@@ -5,7 +5,7 @@ title: ABOUT ME
 ---
 ![]()
 I am an incoming Graduate student in the [Computational and Applied Mathematics](https://cam.uchicago.edu/) program, at the [University of Chicago](https://www.uchicago.edu/).                  
-
+<img src="uc.jpeg" width="100" height="100">
 ![](uc.jpeg){:height="50%" width="50%"}
 I completed my Bachelor's degree in Mathematics (Computer Specialization) and a minor in Statistics at the [University of Minnesota Twin - Cities](https://twin-cities.umn.edu/). 
 
