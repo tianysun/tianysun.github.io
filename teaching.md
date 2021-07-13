@@ -6,7 +6,7 @@ title: TEACHING
 
 **Dancing coordinator** in International Latin Dance Club at UMN-TC.
 
-I was leading the introductory and advanced class to practice what we have learned from the dancing instructors. In my personal view, practice is the most important part for dancing. To make sure all peers can get the hang of it, I spent most of my spare time correcting their detailed behaviors and guiding them to dance over and over again in order to form muscle memory. In Spriing 2020, we successfully demonstrated our abilities in the National Collegiate DanceSport Championship in Chicago and Dance Fest at St. Paul, Minneapolis.
+I was leading the introductory and advanced class to practice what we have learned from the dancing instructors. In my personal view, practice is the most important part for dancing. To make sure all peers can get the hang of it, I spent most of my spare time correcting their detailed behaviors and guiding them to dance over and over again in order to form muscle memory. In Spring 2020, we successfully demonstrated our abilities in the National Collegiate DanceSport Championship in Chicago and Dance Fest at St. Paul, Minneapolis.
 
 
 **Volunteer English teacher** in Galle, Sir Lanka and Beijing No.2 primary school.
