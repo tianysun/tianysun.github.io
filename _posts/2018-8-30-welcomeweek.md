@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome Week at the University of Minnesota - Twin Cities
+title: Welcome Week
 subtitle: UMN-TC and I.
 cover-img: /assets/img/welcomweek2.jpg
 thumbnail-img: /assets/img/welcomeweek3.jpg
