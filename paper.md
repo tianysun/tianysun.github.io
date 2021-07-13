@@ -3,7 +3,7 @@ layout: page
 title: Papers
 
 ---
-* **[Senior Capstone Project: On the Truth Assignment Theorem of the Language of Sentential Logic](seniorcapstoneproject.pdf)**
+* **[Senior Capstone Project: On the Truth Assignment Theorem of the Language of Sentential Logic](/assets/img/seniorcapstoneproject.pdf)**
   * **Tianyi Sun**. 2021.
 
 
