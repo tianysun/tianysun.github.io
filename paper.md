@@ -22,4 +22,4 @@ title: Papers
   
 * **[A survey of compartmental disease models for predicting the progression of COVID-19]()**
   * Khoi Mai, **Tianyi Sun**, Hena Ghonia, Skye Ke, Chen Yu, and Jimmy Broomfield. 2020.
-  * [code]()
+  * [code](https://github.com/TianyiSun00234/fda)
