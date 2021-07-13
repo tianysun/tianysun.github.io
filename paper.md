@@ -25,4 +25,4 @@ title: RESEARCH
   * [code](https://github.com/TianyiSun00234/fda)
 
 * **[COVID19 Global Forecasting Forecast daily COVID-19 spread in regions around world](https://github.com/TianyiSun00234/covid19)**
-  * Jimmy Broomfield, Khoi Mai, Hena Ghonia, **Tianyi Sun**, Skye Ke.
+  * Jimmy Broomfield, Khoi Mai, Hena Ghonia, **Tianyi Sun**, Skye Ke. 2020.
