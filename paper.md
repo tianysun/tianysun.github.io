@@ -19,10 +19,3 @@ title: RESEARCH
   * Cora Brown, Sarah Milstein, **Tianyi Sun**, Cooper Zhao. 2020.
   * Under review in Society for Industrial and Applied Mathematics. 
   * [code](https://github.com/TianyiSun00234/Clustering-Project/blob/main/clustering.ipynb)
-  
-* **[A survey of compartmental disease models for predicting the progression of COVID-19]()**
-  * Khoi Mai, **Tianyi Sun**, Hena Ghonia, Skye Ke, Chen Yu, Jimmy Broomfield. 2020.
-  * [code](https://github.com/TianyiSun00234/fda)
-
-* **[COVID19 Global Forecasting Forecast daily COVID-19 spread in regions around world](https://github.com/TianyiSun00234/covid19)**
-  * Jimmy Broomfield, Khoi Mai, Hena Ghonia, **Tianyi Sun**, Skye Ke. 2020.
