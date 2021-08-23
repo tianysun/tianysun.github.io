@@ -4,6 +4,7 @@ title: ABOUT ME
 
 ---
 ![](/assets/img/imageuc.png) 
+
 I am an incoming graduate student in the [Computational and Applied Mathematics](https://cam.uchicago.edu/) program at the [University of Chicago](https://www.uchicago.edu/).                  
 
 <img src="/assets/img/imageumn.png" width="90"> 
