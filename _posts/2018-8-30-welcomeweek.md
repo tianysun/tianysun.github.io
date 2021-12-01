@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Welcome Week
-subtitle: UMN-TC and I.
+title: UMN Welcome Week
 cover-img: /assets/img/welcomweek2.jpg
 thumbnail-img: /assets/img/welcomeweek3.jpg
 share-img: /assets/img/welcomeweek3.jpg
