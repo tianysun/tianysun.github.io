@@ -15,10 +15,10 @@ author: Tianyi Sun
 
 navbar-links:
   ABOUT: "aboutme"
-  CV: "cv.pdf" 
+  #CV: "cv.pdf" 
   HONOR: "honorawards"
   RESEARCH: "paper"
-  COURSE: "courseinfo.pdf"
+  #COURSE: "courseinfo.pdf"
   TEACHING: "teaching"
   
 
