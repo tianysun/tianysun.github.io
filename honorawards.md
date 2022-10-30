@@ -9,8 +9,8 @@ title: HONOR
 * Dean’s List (2018 - 2021).
 * Vice president Candidate of Tau Sigma National Academic Honor Society UMN Chapter (2020).
 * Membership of Tau Sigma National Academic Honor Society UMN Chapter (2019 - 2021). [📄](assets/img/tau sigma.JPG)
-* 2nd Place in National Collegiate DanceSport Championships, International Latin Dance J/C/R in Chicago (Spring 2019). 
-* 2nd Place in Dance Fest, Silver International Latin S/C/R in St. Paul, Minneapolis (Sping 2019).
+* The 2nd Place in National Collegiate DanceSport Championships, International Latin Dance J/C/R in Chicago (Spring 2019). 
+* The 2nd Place in Dance Fest, Silver International Latin S/C/R in St. Paul, Minneapolis (Sping 2019).
 * Recieved the Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. (Spring 2017). [📄](assets/img/Best Planning Award.jpg)
 * Vice President of the Central Uni. of Finance and Econ. Students Union (2016 - 2018).
 * Communications Coordinator of Beijing Daxing district No. 1 middle school (2014 - 2016).
