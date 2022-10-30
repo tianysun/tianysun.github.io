@@ -12,6 +12,6 @@ title: TEACHING
 **Grader at the UChicago**
 * STAT31015: Mathematical Computation IIA: Convex Optimization (Instructor: Prof. Hongyuan Mei) Winter 2021
 
-**Extra Volunteer**
+**Volunteer**
 * Dancing Coordinator at UMN International Latin Dance Club 2019-2020
 * English Teacher in Galle, Sir Lanka Winter 2018
