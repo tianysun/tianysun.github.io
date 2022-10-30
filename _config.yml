@@ -18,6 +18,7 @@ navbar-links:
   HONOR: "honorawards"
   RESEARCH: "paper"
   TEACHING: "teaching"
+  Misc.: "misc"
   
 
 # --- Logo --- #
