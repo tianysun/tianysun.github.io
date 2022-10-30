@@ -7,17 +7,17 @@
 * The 2nd place in Chorus Contests in the 13th Beijing Students Art Festival, from Beijing Municipal Education Commission (2010). [📄](assets/img/13chorus.jpg)
 * The 3rd place in China Ballroom Dance Federation International Standard Dance Championship (May 2009). [📄](assets/img/2009cbdf.jpg)
 
-![](/assets/img/welcomeweek3.jpg)
-![](/assets/img/welcomeweek1.jpg)
+![Crepe](/assets/img/welcomeweek3.jpg)
+![Crepe](/assets/img/welcomeweek1.jpg)
 I was so excited in the first several days at the University of Minnesota, I met lots of people and my second year's roomate at the U! I felt a sense of belongings!
-![](/assets/img/roclim.jpg)
-![](/assets/img/roclimi.jpg)
-![](/assets/img/latindance1.jpg)
-![](/assets/img/dancefest.jpg)
-![](/assets/img/ncdc.jpg)
+![Crepe](/assets/img/roclim.jpg)
+![Crepe](/assets/img/roclimi.jpg)
+![Crepe](/assets/img/latindance1.jpg)
+![Crepe](/assets/img/dancefest.jpg)
+![Crepe](/assets/img/ncdc.jpg)
 I enjoyed the time while I was in International Latin Dance Club at UMN. Fifteen years' dance training makes me always be persistent, energetic, and passionate.
-![](/assets/img/teachiii.jpg)
-![](/assets/img/teachchildren.jpg)
+![Crepe](/assets/img/teachiii.jpg)
+![Crepe](/assets/img/teachchildren.jpg)
 ![Crepe](/assets/img/15561605411207_.pic.jpg)
 
 In the second year of high school, I won the second place in 1km running race. I was excited and took a picture with my firends who won on others. Running makes me relax and recharge. I could be persistent while facing difficulties. 
