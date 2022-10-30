@@ -1,5 +1,7 @@
 
-<div style="width: 30%; height: 30%">![](/assets/img/welcomeweek3.jpg)</div>
+<div style="width: 30%; height: 30%">
+  ![](/assets/img/welcomeweek3.jpg)
+</div>
 ![](/assets/img/welcomeweek1.jpg)
 I was so excited in the first several days at the University of Minnesota, I met lots of people and my second year's roomate at the U! I felt a sense of belongings!
 ![](/assets/img/roclim.jpg)
