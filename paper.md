@@ -14,9 +14,8 @@ Publication & Preprint:
   * **T. Sun**. *Sponcored 1,500$ by Office of Undergraduate Research* (2021)
 
 * **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2020.pdf)** 
-  * **T. Sun**. 
-  * Submitted to *the 35th AAAI Conference on Artificial Intelligence* (AAAI2021)
-  * [Talk](assets/img/How Personal Perceptions Of COVID-19 Have Changed Over Time Slides.pdf) at the UMN Chatbot group | [Code](https://github.com/TianyiSun00234/aaai-How-Personal-Perceptions-of-COVID-19-Have-Changed-Over-Time) 
+  * **T. Sun**. Submitted to *the 35th AAAI Conference on Artificial Intelligence* (AAAI2021)
+  * [Talk](assets/img/How Personal Perceptions Of COVID-19 Have Changed Over Time Slides.pdf) at the UMN Chatbot group & [Code](https://github.com/TianyiSun00234/aaai-How-Personal-Perceptions-of-COVID-19-Have-Changed-Over-Time) 
 
 * **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](assets/img/Clustering_write_up.pdf)**
   * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. Submitted to *Society for Industrial and Applied Mathematics* (SIAM2021)
