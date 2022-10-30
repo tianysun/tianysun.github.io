@@ -12,7 +12,9 @@ title: HONOR
 * Recieved the Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. (Spring 2017). [📄](assets/img/Best Planning Award.jpg)
 * Vice President of the Central Uni. of Finance and Econ. Students Union (2016 - 2018).
 * Communications Coordinator of Beijing Daxing district No. 1 middle school (2014 - 2016).
-
+  
+  
+  
 * The 2nd Place in National Collegiate DanceSport Championships, International Latin Dance J/C/R in Chicago (Spring 2019). 
 * The 2nd Place in Dance Fest, Silver International Latin S/C/R in St. Paul, Minneapolis (Sping 2019).
 * The 1st place in Chorus Contests in the 15th Beijing Students Art Festival, from Beijing Municipal Education Commission (2015). [📄](assets/img/15chorus.jpg)
