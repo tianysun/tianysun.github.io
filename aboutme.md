@@ -1,6 +1,5 @@
 ---
 layout: page
-title: ABOUT
 
 ---
 I am a first year graduate student in [Computational and Applied Mathematics](https://cam.uchicago.edu/) in the [Physical Sciences Division](https://physicalsciences.uchicago.edu/) at the [University of Chicago](https://www.uchicago.edu/).                  
