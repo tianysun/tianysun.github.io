@@ -1,5 +1,7 @@
 ---
 layout: page
+
+
 ---
 
 * Sponsored 1,500$ by the UMN Office of Undergraduate Research (2020). [📄](assets/img/UROP award letterhead.pdf) 
