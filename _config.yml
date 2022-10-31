@@ -15,9 +15,9 @@ author: Tianyi Sun
 
 navbar-links:
   ABOUT: "aboutme"
-  HONOR: "honorawards"
   RESEARCH: "paper"
   TEACHING: "teaching"
+  HONOR: "honorawards"
   Misc.: "misc"
   
 
