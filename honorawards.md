@@ -2,7 +2,10 @@
 layout: page
 
 
+
 ---
+
+
 
 * Sponsored 1,500$ by the UMN Office of Undergraduate Research (2020). [📄](assets/img/UROP award letterhead.pdf) 
 * Awarded Maroon Global Excellence Scholarship 15,000$ (2018 - 2021). [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
