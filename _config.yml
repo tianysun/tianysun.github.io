@@ -205,8 +205,14 @@ defaults:
       path: ""
       type: "aboutme"
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
+      layout: 
+        navbar-links:
+          ABOUT: "aboutme"
+          HONOR: "honorawards"
+          RESEARCH: "paper"
+          TEACHING: "teaching"
+          Misc.: "misc"
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
