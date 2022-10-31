@@ -1,8 +1,4 @@
----
-layout: page
-title: TEACHING
 
----
 
 **Teaching Assistant at GEC Academy**
 * ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them (Instructor: Prof. Joseph Halpern) Spring 2022 
