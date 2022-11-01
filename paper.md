@@ -20,10 +20,13 @@ layout: page
 
 **Report:**
 * **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)** 
-  * **T. Sun**, and Q. Xue. Advisor: Prof. Eric Darve. (2022)
+  * **T. Sun**, and Q. Xue. (2022)
   
 * **[Model Drift Detection](assets/img/mdd.pdf)** 
-  * **T. Sun**. Advisor: Prof. Nick Feamster. (2021)
+  * **T. Sun**. (2021)
   
 * **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)** 
-  * **T. Sun**. Advisor: Prof. David McAllester. (2021)
+  * **T. Sun**. (2021)
+
+* **[A survey of compartmental disease models for predicting the progression of COVID-19]()**
+  * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
