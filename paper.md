@@ -8,7 +8,7 @@ layout: page
 * **[On the Truth Assignment Theorem of the Language of Sentential Logic](/assets/img/seniorcapstoneproject.pdf)**
   * **T. Sun**. *A Senior Capstone Project submitted to Department of Mathematics* (2021)
 
-* **[A Study Of Natural Language Understanding](/assets/img/directedresearch20fall.pdf)**
+* **[A Study Of Natural Language Understanding](/assets/img/UROP.pdf)**
   * **T. Sun**. *Sponcored 1,500$ by Office of Undergraduate Research* (2021)
 
 * **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2020.pdf)** 
@@ -28,5 +28,5 @@ layout: page
 * **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)** 
   * **T. Sun**. (2021)
 
-* **[A survey of compartmental disease models for predicting the progression of COVID-19]()**
+* **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
