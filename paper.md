@@ -10,6 +10,7 @@ layout: page
 
 * **[A Study Of Natural Language Understanding](/assets/img/UROP.pdf)**
   * **T. Sun**. *Sponcored 1,500$ by Office of Undergraduate Research* (2021)
+  * [Talk](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium) at University of Minnesota Undergraduate Research Symposium
 
 * **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2020.pdf)** 
   * **T. Sun**. Submitted to *the 35th AAAI Conference on Artificial Intelligence* (AAAI2021)
