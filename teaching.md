@@ -2,7 +2,6 @@
 
 **Teaching Assistant at GEC Academy**
 * ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them *Spring 2022*
-    *Instructor: Prof. Joseph Halpern Spring 2022* 
 * ST1541: Data Science and Big Data Analysis *Spring 2022*
 * ST1220: Introduction to Artificial Intelligence and Computer Vision *Winter 2021*
 
