@@ -9,5 +9,5 @@
 * STAT31015: Mathematical Computation IIA: Convex Optimization *Winter 2021*
 
 **Volunteer**
-* Dancing Coordinator at UMN International Latin Dance Club 2019-2020
-* English Teacher in Galle, Sir Lanka Winter 2018
+* Dancing Coordinator at UMN International Latin Dance Club *2019-2020*
+* English Teacher in Galle, Sir Lanka *Winter 2018*
