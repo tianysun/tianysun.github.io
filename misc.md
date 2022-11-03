@@ -1,4 +1,4 @@
-![Crepe](/assets/img/welcomeweek3.jpg)![Crepe](/assets/img/welcomeweek1.jpg)
+![Crepe](/assets/img/welcomeweek3.jpg| width=100)![Crepe](/assets/img/welcomeweek1.jpg| width=100)
 I was so excited in the first several days at the University of Minnesota, I met lots of people and my second year's roomate at the U! I felt a sense of belongings!
 ![Crepe](/assets/img/roclim.jpg)![Crepe](/assets/img/roclimi.jpg)
 
