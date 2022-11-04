@@ -1,1 +1,1 @@
-**[Welcome to my homepage!](https://tianyisun.github.io/aboutme/)**
+**[Welcome to my homepage!](https://tianysun.github.io/aboutme/)**
