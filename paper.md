@@ -10,11 +10,11 @@ layout: page
 
 * **[A Study Of Natural Language Understanding](/assets/img/UROP.pdf)**
   * **T. Sun**. *Sponcored 1,500$ by Office of Undergraduate Research* (2021)
-  * [Talk](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium) at University of Minnesota Undergraduate Research Symposium
+  * Gave a [talk](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium) at University of Minnesota Undergraduate Research Symposium
 
 * **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2020.pdf)** 
   * **T. Sun**. Submitted to *the 35th AAAI Conference on Artificial Intelligence* (AAAI2021)
-  * [Talk](assets/img/aaaislides.pdf) at the UMN Chatbot group & [Code](https://github.com/TianyiSun00234/aaai-How-Personal-Perceptions-of-COVID-19-Have-Changed-Over-Time) 
+  * Gave a [talk](assets/img/aaaislides.pdf) at the UMN Chatbot group & [Code](https://github.com/TianyiSun00234/aaai-How-Personal-Perceptions-of-COVID-19-Have-Changed-Over-Time) 
 
 * **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](assets/img/Clustering_write_up.pdf)**
   * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. Submitted to *Society for Industrial and Applied Mathematics* (SIAM2021)
