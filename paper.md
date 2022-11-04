@@ -27,7 +27,7 @@ layout: page
   * **T. Sun**. *Techniqual Report* (2021)
   
 * **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)** 
-  * **T. Sun**. *Course Product Report* (2021)
+  * **T. Sun**. *Idea* (2021)
 
 * **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
