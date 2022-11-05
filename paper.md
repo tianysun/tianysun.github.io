@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-**Publication & Preprint:**
+**Publication & Preprint**
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries]()**
   * Z. Ning, Z. Zheng, **T. Sun**, Y. Tian, T. Zhang, and T. Li. In submission *the 28th Annual Conference on Intelligent User Interfaces* (IUI2023)
 
@@ -19,7 +19,7 @@ layout: page
 * **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](assets/img/Clustering_write_up.pdf)**
   * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. Submitted to *Society for Industrial and Applied Mathematics* (SIAM2021)
 
-**Report:**
+**Report**
 * **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)** 
   * **T. Sun**, and Q. Xue. *Techniqual Report* (2022)
   
