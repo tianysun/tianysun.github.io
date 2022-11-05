@@ -18,12 +18,13 @@ navbar-links:
   RESEARCH: "paper"
   TEACHING: "teaching"
   HONOR: "honorawards"
+  COURSE: "courseinfo.pdf"
   Misc.: "misc"
   
 
 # --- Logo --- #
   #CV: "cv.pdf" 
-  COURSE: "courseinfo.pdf"
+  
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/head.jpg"
@@ -33,7 +34,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/head.jpg"
+# title-img: "/assets/img/head.jpg"
 
 
 # --- Footer social media links --- #
