@@ -7,7 +7,7 @@ layout: page
 * Dean’s List, the University of Minnesota, Twin-Cities *2018 - 2021*
 * Vice president Candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2020*
 * Membership, Tau Sigma National Academic Honor Society *2019 - 2021* [📄](assets/img/tau sigma.JPG)
-* Vice President, the Central University of Finance and Economics Students Union, Beijing *2016 - 2018* [📄](assets/img/Best Planning Award.jpg)
+* Vice President, Central University of Finance and Economics Students Union, Beijing *2016 - 2018* [📄](assets/img/Best Planning Award.jpg)
 * The 2nd Place International Latin Dance J/C/R, National Collegiate DanceSport Championships, Chicago *Spring 2019* 
 * The 2nd Place Silver International Latin Dance S/C/R, Dance Fest, St. Paul, Minneapolis *Sping 2019*
 * The 1st place Chorus Contests, the 15th Beijing Students Art Festival from Beijing Municipal Education Commission *2015* [📄](assets/img/15chorus.jpg)
