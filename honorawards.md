@@ -2,17 +2,16 @@
 layout: page
 
 ---
-* Sponsored 1,500$ by the UMN Office of Undergraduate Research (2020). [📄](assets/img/UROP award letterhead.pdf) 
-* Awarded Maroon Global Excellence Scholarship 15,000$ (2018 - 2021). [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
-* Dean’s List (2018 - 2021).
-* Vice president Candidate of Tau Sigma National Academic Honor Society UMN Chapter (2020).
-* Membership of Tau Sigma National Academic Honor Society UMN Chapter (2019 - 2021). [📄](assets/img/tau sigma.JPG)
-* Recieved the Best Planning Award for Farewell Party at the Central Uni. of Finance and Econ. (Spring 2017). [📄](assets/img/Best Planning Award.jpg)
-* Vice President of the Central Uni. of Finance and Econ. Students Union (2016 - 2018).
-* The 2nd Place in National Collegiate DanceSport Championships, International Latin Dance J/C/R in Chicago (Spring 2019). 
-* The 2nd Place in Dance Fest, Silver International Latin S/C/R in St. Paul, Minneapolis (Sping 2019).
-* The 1st place in Chorus Contests in the 15th Beijing Students Art Festival, from Beijing Municipal Education Commission (2015). [📄](assets/img/15chorus.jpg)
-* The 3rd place in the 15th Aisa Ballroom Dance Federation International Standard Dance Championship (May 2012). [📄](assets/img/abdf2.jpg)
-* Received certificate of Gold Medal International Latin Dance from China Ballroom Dance Federation (Feb 9th 2012). [📄](assets/img/gold.jpg)
-* The 2nd place in Chorus Contests in the 13th Beijing Students Art Festival, from Beijing Municipal Education Commission (2010). [📄](assets/img/13chorus.jpg)
-* The 3rd place in China Ballroom Dance Federation International Standard Dance Championship (May 2009). [📄](assets/img/2009cbdf.jpg)
+* Undergraduate Research Award ($1,500), the University of Minnesota Office of Undergraduate Research *2020* [📄](assets/img/UROP award letterhead.pdf) 
+* Maroon Global Excellence Scholarship (15,000$), the University of Minnesota *2018 - 2021* [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
+* Dean’s List, the University of Minnesota, Twin-Cities *2018 - 2021*
+* Vice president Candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2020*
+* Membership, Tau Sigma National Academic Honor Society *2019 - 2021* [📄](assets/img/tau sigma.JPG)
+* Vice President, the Central University of Finance and Economics Students Union, Beijing *2016 - 2018* [📄](assets/img/Best Planning Award.jpg)
+* The 2nd Place International Latin Dance J/C/R, National Collegiate DanceSport Championships, Chicago *Spring 2019* 
+* The 2nd Place Silver International Latin Dance S/C/R, Dance Fest, St. Paul, Minneapolis *Sping 2019*
+* The 1st place Chorus Contests, the 15th Beijing Students Art Festival from Beijing Municipal Education Commission *2015* [📄](assets/img/15chorus.jpg)
+* The 3rd place in the 15th Aisa Ballroom Dance Federation International Standard Dance Championship *May 2012* [📄](assets/img/abdf2.jpg)
+* Received Gold Medal certificate, International Latin Dance from China Ballroom Dance Federation *Feb 9th 2012* [📄](assets/img/gold.jpg)
+* The 2nd place in Chorus Contests, the 13th Beijing Students Art Festival from Beijing Municipal Education Commission *2010* [📄](assets/img/13chorus.jpg)
+* The 3rd place in China Ballroom Dance Federation International Standard Dance Championship *May 2009* [📄](assets/img/2009cbdf.jpg)
