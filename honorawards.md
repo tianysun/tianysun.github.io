@@ -3,9 +3,9 @@ layout: page
 
 ---
 * Undergraduate Research Award ($1,500), the University of Minnesota Office of Undergraduate Research *2020* [📄](assets/img/UROP award letterhead.pdf) 
-* Maroon Global Excellence Scholarship (15,000$), the University of Minnesota *2018 - 2021* [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
+* Maroon Global Excellence Scholarship ($15,000), the University of Minnesota *2018 - 2021* [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
 * Dean’s List, the University of Minnesota, Twin Cities *2018 - 2021*
-* Vice president candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2021*
+* Vice president candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2020 - 2021*
 * Tau Sigma National Academic Honor Society *2019 - 2021* [📄](assets/img/tau sigma.JPG)
 * Vice president, Central University of Finance and Economics Students Union, Beijing *2016 - 2018* [📄](assets/img/Best Planning Award.jpg)
 * The 2nd place in International Latin Dance J/C/R, National Collegiate DanceSport Championships, Chicago *Spring 2019* 
