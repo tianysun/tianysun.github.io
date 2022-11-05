@@ -7,6 +7,7 @@ layout: page
 * Maroon Global Excellence Scholarship ($15,000), the University of Minnesota *2018 - 2021* [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
 * Tau Sigma National Academic Honor Society *2019 - 2021* [📄](assets/img/tau sigma.JPG)
 * Dean’s List, the University of Minnesota, Twin Cities *2018 - 2021*
+
 **Extra**
 * The 2nd place in International Latin Dance J/C/R, National Collegiate DanceSport Championships, Chicago *Spring 2019* 
 * The 2nd place in Silver International Latin Dance S/C/R, Dance Fest, St. Paul, Minneapolis *Sping 2019*
