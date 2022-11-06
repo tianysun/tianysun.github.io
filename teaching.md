@@ -1,4 +1,5 @@
 **Teaching Assistant at GEC Academy**
+
 (In weekly office hour, giving at least 1 hour's continuous talk on relevant topics or answering students' questions; Grading homeworks; Final project mentoring; Recording lectures and mentor sessions; Giving feedbacks for each students' performances and activities in lectures and mentor sessions.)
 * ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them *Instructor: Prof. Joseph Halpern     Spring 2022*
 * * Providing problem solutions; students are ranging from high school to fourth year undergrad.
