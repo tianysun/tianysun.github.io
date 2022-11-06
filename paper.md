@@ -22,6 +22,7 @@ layout: page
 **Report**
 * **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)** 
   * **T. Sun**, and Q. Xue. *Techniqual Report* (2022)
+  * [Talk](assets/img/pv_slides.pdf)
   
 * **[Model Drift Detection](assets/img/mdd.pdf)** 
   * **T. Sun**. *Techniqual Report* (2021)
