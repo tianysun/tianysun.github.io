@@ -10,7 +10,7 @@
 
 **Grader at the UChicago**
 * STAT31015: Mathematical Computation IIA: Convex Optimization *Instructor: Prof. Hongyuan Mei     Winter 2021*
-* * Graduate course 
+  * Graduate course; 
 
 **Service**
 * Vice president candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2020 - 2021*
