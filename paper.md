@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-**Publication & Preprint**
+**Publication & Preprint** (* equal contribution)
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries]()**
   * Z. Ning*, Z. Zheng*, **T. Sun**, Y. Tian, T. Zhang, and T. Li. In submission *the 28th Annual Conference on Intelligent User Interfaces* (IUI2023)
 
