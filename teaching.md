@@ -10,7 +10,7 @@
 
 **Grader at the UChicago**
 * STAT31015: Mathematical Computation IIA: Convex Optimization *Instructor: Prof. Hongyuan Mei     Winter 2021*
-  * *Graduate course; Students are from Booth, Statistics, Computer Science, and Applied Math at UChicago; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015).*
+  * *Graduate course; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015); Students are from Booth, Statistics, Computer Science, and Applied Math at UChicago.*
 
 **Service**
 * Vice president candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2020 - 2021*
