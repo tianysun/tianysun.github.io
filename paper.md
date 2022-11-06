@@ -34,5 +34,5 @@ layout: page
 
 **Conference Attended**
 
-ACL2020, AAAI(funded & membership), VSU CBMS(funded).
+ACL2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
 
