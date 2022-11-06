@@ -9,7 +9,7 @@ layout: page
   * **T. Sun**. *A Senior Capstone Project submitted to Department of Mathematics* (2021)
 
 * **[A Study Of Natural Language Understanding](/assets/img/UROP.pdf)**
-  * **T. Sun**. *Received $1,500 by Office of Undergraduate Research* (2021)
+  * **T. Sun**. *Received $1,500 from Office of Undergraduate Research* (2021)
   * Gave a [talk](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium) at University of Minnesota Undergraduate Research Symposium
 
 * **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2020.pdf)** 
