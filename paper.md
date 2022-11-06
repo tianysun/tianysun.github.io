@@ -3,7 +3,7 @@ layout: page
 ---
 **Publication & Preprint**
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries]()**
-  * Z. Ning * , Z. Zheng * , **T. Sun**, Y. Tian, T. Zhang, and T. Li. In submission *the 28th Annual Conference on Intelligent User Interfaces* (IUI2023)
+  * Z. Ning, Z. Zheng, **T. Sun**, Y. Tian, T. Zhang, and T. Li. In submission *the 28th Annual Conference on Intelligent User Interfaces* (IUI2023)
 
 * **[On the Truth Assignment Theorem of the Language of Sentential Logic](/assets/img/seniorcapstoneproject.pdf)**
   * **T. Sun**. *A Senior Capstone Project submitted to Department of Mathematics* (2021)
@@ -31,10 +31,6 @@ layout: page
 
 * **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
-
-
-(* equal contribution)
-
 
 **Conference Attended**
 
