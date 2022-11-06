@@ -1,12 +1,12 @@
-**Teaching Assistant** at GEC Academy
+**Teaching Assistant at GEC Academy**
+(In weekly office hour, giving at least 1 hour's continuous talk on relevant topics or answering students' questions; Grading homeworks; Final project mentoring; Recording lectures and mentor sessions; Giving feedbacks for each students' performances and activities in lectures and mentor sessions.)
 * ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them *Instructor: Prof. Joseph Halpern     Spring 2022*
+* * Providing problem solutions; students are ranging from high school to fourth year undergrad.
 * ST1541: Data Science and Big Data Analysis *Instructor: Prof. Mark Vogelsberger     Spring 2022*
 * ST1220: Introduction to Artificial Intelligence and Computer Vision *Instructor: Prof. Rabih Younes     Winter 2021*
 
-(Recording lectures and mentor sessions; Taking notes; Giving feedbacks for each students' performances and activities in lectures and mentor sessions; Grading homeworks; In office hour per week, giving at least 1 hour's continuous talk on relavent topics or unswering students' questions.)
-
 **Grader** at the UChicago
-* STAT31015: Mathematical Computation IIA: Convex Optimization *Winter 2021*
+* STAT31015: Mathematical Computation IIA: Convex Optimization *Instructor: Prof. Hongyuan Mei     Winter 2021*
 
 **Service**
 * Vice president candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2020 - 2021*
