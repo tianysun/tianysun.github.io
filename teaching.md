@@ -1,12 +1,12 @@
 **Teaching Assistant at GEC Academy**
 
-(In weekly office hour, giving at least 1 hour's continuous talk on relevant topics, or answering students' questions; Grading homeworks; Final project mentoring; Recording lectures; Giving feedbacks for students' performances and activities in lectures.)
+*(In weekly office hour, giving at least 1 hour's continuous talk on relevant topics, or answering students' questions; Grading homeworks; Final project mentoring; Recording lectures; Giving feedbacks for students' performances and activities in lectures.)*
 * ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them *Instructor: Prof. Joseph Halpern     Spring 2022*
-* * Providing problem solutions; students are ranging from high school to fourth year's undergrad.
+  * Providing problem solutions; students are ranging from high school to fourth year's undergrad.
 * ST1541: Data Science and Big Data Analysis *Instructor: Prof. Mark Vogelsberger     Spring 2022*
-* * Translation; Students are ranging from third year's undergrad to graduate. 
+  * Translation; Students are ranging from third year's undergrad to graduate. 
 * ST1220: Introduction to Artificial Intelligence and Computer Vision *Instructor: Prof. Rabih Younes     Winter 2021*
-* * Students are ranging from third year's undergrad to graduate. 
+  * Students are ranging from third year's undergrad to graduate. 
 
 **Grader at the UChicago**
 * STAT31015: Mathematical Computation IIA: Convex Optimization *Instructor: Prof. Hongyuan Mei     Winter 2021*
