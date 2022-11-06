@@ -4,13 +4,13 @@
 * ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them *Instructor: Prof. Joseph Halpern     Spring 2022*
   * *Undergraduate course; Students are ranging from high school to fourth year's undergrad studying in China, U.S., and Canada; Provided homework solutions.*
 * ST1541: Data Science and Big Data Analysis *Instructor: Prof. Mark Vogelsberger     Spring 2022*
-  * *Graduate and Undergraduate course; Students are ranging from third year's undergrad to graduate studying in China, U.S., and Canada.*
+  * *Graduate and undergraduate course; Students are ranging from third year's undergrad to graduate studying in China, U.S., and Canada.*
 * ST1220: Introduction to Artificial Intelligence and Computer Vision *Instructor: Prof. Rabih Younes     Winter 2021*
-  * *Graduate and Undergraduate course; Students are ranging from third year's undergrad to graduate studying in China, and U.S..*
+  * *Graduate and undergraduate course; Students are ranging from third year's undergrad to graduate studying in China, and U.S..*
 
 **Grader at the UChicago**
 * STAT31015: Mathematical Computation IIA: Convex Optimization *Instructor: Prof. Hongyuan Mei     Winter 2021*
-  * *Graduate course; Students are from Booth, Statistics, Computer Science, and Applied Math; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015).*
+  * *Graduate course; Students are from Booth, Statistics, Computer Science, and Applied Math at UChicago; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015).*
 
 **Service**
 * Vice president candidate, Tau Sigma National Academic Honor Society the University of Minnesota Chapter *2020 - 2021*
