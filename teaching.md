@@ -11,3 +11,6 @@
 * Dancing Coordinator at UMN International Latin Dance Club *2019-2020*
 * English Teacher in Galle, Sir Lanka *Winter 2018*
 * Vice president, Central University of Finance and Economics Students Union, Beijing *2016 - 2018* [📄](assets/img/Best Planning Award.jpg)
+
+**Conference Attended**
+* ACL2020, AAAI(funded & membership), VSU CBMS(funded).
