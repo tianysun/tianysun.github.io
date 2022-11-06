@@ -33,5 +33,6 @@ layout: page
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
 
 **Conference Attended**
-* ACL2020, AAAI(funded & membership), VSU CBMS(funded).
+
+ACL2020, AAAI(funded & membership), VSU CBMS(funded).
 
