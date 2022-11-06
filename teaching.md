@@ -2,6 +2,7 @@
 * ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them *Spring 2022*
 * ST1541: Data Science and Big Data Analysis *Spring 2022*
 * ST1220: Introduction to Artificial Intelligence and Computer Vision *Winter 2021*
+(recording lecture \& mentor session; taking notes; giving at least 1hour's continuous talk on relavent topics or unswer students' questions)
 
 **Grader** at the UChicago
 * STAT31015: Mathematical Computation IIA: Convex Optimization *Winter 2021*
