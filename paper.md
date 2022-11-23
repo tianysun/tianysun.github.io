@@ -35,5 +35,5 @@ layout: page
 
 **Conference Attended**
 
-ACL2020, NeuralPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
+ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
 
