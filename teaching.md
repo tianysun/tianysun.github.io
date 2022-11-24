@@ -9,6 +9,8 @@
   * *Graduate and undergraduate course; Students are studying in U.S., and China.*
 
 **Grader at the UChicago**
+
+* Developed rubrics; graded homeworks.
 * **STAT31015: Mathematical Computation IIA: Convex Optimization** *Instructor: Prof. Hongyuan Mei     Winter 2021*
   * *Graduate course; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015); Students are from Booth, Statistics, Computer Science, and Applied Math at UChicago.*
 
