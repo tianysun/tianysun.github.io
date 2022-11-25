@@ -12,7 +12,7 @@ layout: page
   * **T. Sun**. *Received $1,500 from Office of Undergraduate Research* (2021)
   * Gave a [talk](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium) at University of Minnesota Undergraduate Research Symposium
 
-* **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2020.pdf)** 
+* **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2021.pdf)** 
   * **T. Sun**. Submitted to *the 35th AAAI Conference on Artificial Intelligence* (AAAI2021)
   * Gave a [talk](assets/img/aaaislides.pdf) at the UMN Chatbot group 
 
