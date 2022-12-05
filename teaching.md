@@ -1,6 +1,6 @@
 **Teaching Assistant at GEC Academy**
 
-*Gave at least 1 hour's continuous talk on relevant topics or answered questions in weekly office hours; Graded homework assignments; Mentored final projects; Recorded lectures; Gave feedback for students' performances and activities in lectures.*
+*Presented on a relevant topic and answered questions in weekly one hour’s office hours; Graded homework assignments; Mentored final projects; Recorded lectures; Gave feedback for students' performances and activities in lectures.*
 * **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them** *Instructor: Prof. Joseph Halpern     Spring 2022*
   * *Undergraduate course; Students are studying in U.S., China, and Canada; Provided homework solutions.*
 * **ST1541: Data Science and Big Data Analysis** *Instructor: Prof. Mark Vogelsberger     Spring 2022*
