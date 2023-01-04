@@ -1,7 +1,3 @@
----
-layout: page
-
----
 #### Academic
 * Undergraduate Research Award ($1,500), the University of Minnesota Office of Undergraduate Research *2021* [📄](assets/img/UROP award letterhead.pdf) 
 * Maroon Global Excellence Scholarship ($15,000), the University of Minnesota *2018 - 2021* [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
