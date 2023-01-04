@@ -1,7 +1,4 @@
----
-layout: page
 
----
 ### Teaching Assistant at GEC Academy
 *Presented on a relevant topic and answered questions in weekly one hour’s office hours; Graded homework assignments; Mentored final projects; Recorded lectures; Gave feedback for students' performances and activities in lectures.*
 * **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them** *Instructor: Prof. Joseph Halpern     Spring 2022*
