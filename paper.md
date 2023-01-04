@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-### Publication & Preprint
 
+### Publication & Preprint
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries]()**
   * Z. Ning, Z. Zheng, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th Annual Conference on Intelligent User Interfaces* (IUI2023)
 
@@ -35,6 +35,5 @@ layout: page
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
 
 ### Conference Attended
-
 ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
 
