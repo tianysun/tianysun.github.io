@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 
 ---
 I am a graduate student in [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/) in the [Physical Sciences Division](https://physicalsciences.uchicago.edu/) at [the University of Chicago](https://www.uchicago.edu/).                  
