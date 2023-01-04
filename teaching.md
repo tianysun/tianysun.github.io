@@ -1,3 +1,4 @@
+
 ### Teaching Assistant at GEC Academy
 *Presented on a relevant topic and answered questions in weekly one hour’s office hours; Graded homework assignments; Mentored final projects; Recorded lectures; Gave feedback for students' performances and activities in lectures.*
 * **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them** *Instructor: Prof. Joseph Halpern     Spring 2022*
@@ -8,7 +9,6 @@
   * *Graduate and undergraduate course; Students are studying in U.S., and China.*
 
 ### Grader at the UChicago
-
 *Developed rubrics; Graded homework assignments.*
 * **STAT31015: Mathematical Computation IIA: Convex Optimization** *Instructor: Prof. Hongyuan Mei     Winter 2021*
   * *Graduate course; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015); Students are from Booth, Statistics, Computer Science, and Applied Math at UChicago.*
