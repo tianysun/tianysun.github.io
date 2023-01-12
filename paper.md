@@ -18,11 +18,11 @@
 
 #### Report
 * **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)** 
-  * **T. Sun**, and Q. Xue. *Techniqual Report* (2022)
+  * **T. Sun**, and Q. Xue. *Technical Report* (2022)
   * [Talk](assets/img/pv_slides.pdf)
   
 * **[Model Drift Detection](assets/img/mdd.pdf)** 
-  * **T. Sun**. *Techniqual Report* (2021)
+  * **T. Sun**. *Technical Report* (2021)
   
 * **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)** 
   * **T. Sun**. *Idea* (2021)
