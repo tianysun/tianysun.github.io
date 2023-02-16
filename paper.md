@@ -34,6 +34,6 @@
 * **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
 
-#### Conference Attended
-ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
+**Conference Attended** ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
 
+**Reviewer** CHI2023
