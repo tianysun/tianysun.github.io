@@ -1,4 +1,8 @@
 #### Publication & Preprint
+* **[Matroids and Sampling in Topological Data Analysis]()**
+  * **T. Sun**. *Master's thesis submitted to the Department of Committee on Computational and Applied Mathematics* 02/15/2023
+  * Successfully defended my thesis on Monday, Feb 13, 2023, 11:30am. Committee: Bradley Nelson, Risi Kondor, and Lek-Heng Lim.
+ 
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries]()**
   * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th ACM Conference on Intelligent User Interfaces* (IUI2023)
 
