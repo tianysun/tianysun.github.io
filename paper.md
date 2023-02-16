@@ -7,7 +7,7 @@
   * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th ACM Conference on Intelligent User Interfaces* (IUI2023)
 
 * **[On the Truth Assignment Theorem of the Language of Sentential Logic](/assets/img/seniorcapstoneproject.pdf)**
-  * **T. Sun**. *Senior Capstone Project submitted to Department of Mathematics* (2021)
+  * **T. Sun**. *Senior Capstone Project submitted to the Department of Mathematics* (2021)
 
 * **[A Study Of Natural Language Understanding](/assets/img/UROP.pdf)**
   * **T. Sun**. Received *$1,500 from Office of Undergraduate Research* (2021)
