@@ -1,7 +1,7 @@
 #### Publication & Preprint
 * **[Permutation Equivariance in Higher Order Message Passing Networks]()**
   * **T. Sun**, A. Hands, and R. Kondor. 
-  * Gave a talk in UChicago ML group. Feb 17, 2023.
+  * Gave a talk in UChicago ML group. Feb 17, 2023, JCL 390.
 * **[Matroids and Sampling in Topological Data Analysis]()**
   * **T. Sun**. *Master's thesis submitted to the Department of Committee on Computational and Applied Mathematics* 
   * Successfully defended my thesis on Monday, Feb 13, 2023, 11:30am, Jones Hall 304. Committee: Bradley Nelson, Risi Kondor, and Lek-Heng Lim.
