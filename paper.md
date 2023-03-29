@@ -7,7 +7,7 @@
   * **T. Sun**. *Master's thesis submitted to the Department of Committee on Computational and Applied Mathematics* 
   * Successfully defended my thesis on Monday, Feb 13, 2023, 11:30am, Jones Hall 304. Committee: Bradley Nelson, Risi Kondor, and Lek-Heng Lim.
  
-* **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/10.1145/3581641.3584067)**
+* **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/pdf/10.1145/3581641.3584067)**
   * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th ACM Conference on Intelligent User Interfaces* (IUI2023)
 
 * **[On the Truth Assignment Theorem of the Language of Sentential Logic](https://arxiv.org/pdf/2303.10750.pdf)**
