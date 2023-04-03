@@ -5,7 +5,7 @@
  
 * **[Matroids and Sampling in Topological Data Analysis]()**
   * **T. Sun**. *Master's thesis submitted to the Department of Committee on Computational and Applied Mathematics* 
-  * Successfully defended my thesis on Monday, Feb 13, 2023, 11:30am, Jones Hall 304. Committee: Bradley Nelson, Risi Kondor, and Lek-Heng Lim.
+  * Defended my thesis on Monday, Feb 13, 2023, 11:30am, Jones Hall 304 and submitted it on Feb 15, 2023.
  
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/pdf/10.1145/3581641.3584067)**
   * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th ACM Conference on Intelligent User Interfaces* (IUI2023)
