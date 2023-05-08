@@ -4,9 +4,9 @@
 * **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them** *Spring 2022*
   * *Undergraduate course; Students are studying in U.S., China, and Canada; Provided homework solutions.*
 * **ST1541: Data Science and Big Data Analysis** *Spring 2022*
-  * *Graduate and undergraduate course; Students are studying in U.S., China, and Canada.*
+  * *Graduate course; Students are studying in U.S., China, and Canada.*
 * **ST1220: Introduction to Artificial Intelligence and Computer Vision** *Winter 2021*
-  * *Graduate and undergraduate course; Students are studying in U.S., and China.*
+  * *Graduate course; Students are studying in U.S., and China.*
 
 #### Grader at UChicago
 *Developed rubrics; Graded homework assignments.*
