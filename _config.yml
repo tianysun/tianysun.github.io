@@ -18,7 +18,7 @@ navbar-links:
   RESEARCH: "paper"
   TEACHING: "teaching"
   HONOR: "honorawards"
-  COURSE: "courseinfo.pdf"
+#  COURSE: "courseinfo.pdf"
   Misc.: "misc"
   
 
