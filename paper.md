@@ -10,7 +10,7 @@
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/pdf/10.1145/3581641.3584067)**
   * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th ACM Conference on Intelligent User Interfaces* (IUI2023)
 
-* **[On the Truth Assignment Theorem of the Language of Sentential Logic](https://arxiv.org/pdf/2303.10750.pdf)**
+* **[On the Truth Assignment Theorem of the Language of Sentential Logic]([https://arxiv.org/pdf/2303.10750.pdf](/assets/img/seniorcapstoneproject.pdf)**
   * **T. Sun**. *Senior Capstone Project submitted to the Department of Mathematics* (2021)
 
 * **[A Study Of Natural Language Understanding](/assets/img/UROP.pdf)**
@@ -21,7 +21,7 @@
   * **T. Sun**. Submitted to *the 35th AAAI Conference on Artificial Intelligence* (AAAI2021)
   * Gave a [talk](assets/img/aaaislides.pdf) at the UMN Chatbot group 
 
-* **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](https://arxiv.org/pdf/2303.11936.pdf)**
+* **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic]([https://arxiv.org/pdf/2303.11936.pdf](/assets/img/Clustering_write_up.pdf)**
   * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. Submitted to *Society for Industrial and Applied Mathematics* (SIAM2021)
 
 #### Report
