@@ -1,11 +1,11 @@
 #### Publication & Preprint
 * **[Permutation Equivariance in Higher Order Message Passing Networks]()**
   * **T. Sun**, A. Hands, and R. Kondor. 
-  * Gave a talk in UChicago ML group. Feb 17, 2023, JCL 390.
+  * Gave a talk in UChicago ML group. Feb 17, 2023, Crerar 390.
  
 * **[Matroids and Sampling in Topological Data Analysis]()**
   * **T. Sun**. *Master's thesis submitted to the Department of Committee on Computational and Applied Mathematics* 
-  * Defended my thesis on Monday, Feb 13, 2023, 11:30am, Jones Hall 304 and submitted it on Feb 15, 2023.
+  * Defended my thesis on Monday, Feb 13, 2023, 11:30am, Jones 304 and submitted it on Feb 15, 2023.
  
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](/assets/img/iui23.pdf)**
   * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th ACM Conference on Intelligent User Interfaces* (IUI2023)
