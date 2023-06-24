@@ -206,7 +206,7 @@ defaults:
       path: "aboutme"
       type: "page"
     values:
-      layout: "post"
+      layout: "aboutme"
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
