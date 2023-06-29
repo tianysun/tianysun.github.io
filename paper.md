@@ -1,5 +1,5 @@
 #### Publication & Preprint
-* **[Permutation Equivariance in Higher Order Message Passing Networks]()**
+* **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/pdf/2306.10767.pdf)**
   * **T. Sun**, A. Hands, and R. Kondor. 
   * Gave a talk in UChicago ML group. Feb 17, 2023, Crerar 390.
  
