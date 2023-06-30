@@ -25,10 +25,14 @@
   * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. Submitted to *Society for Industrial and Applied Mathematics* (SIAM2021)
 
 #### Report
-* **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)** **T. Sun**, and Q. Xue. *Technical Report* (2022) [Talk](assets/img/pv_slides.pdf)
-* **[Model Drift Detection](assets/img/mdd.pdf)** **T. Sun**. *Technical Report* (2021)
-* **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)** **T. Sun**. *Idea* (2021)
-* **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)** * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
+* **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)**
+  * **T. Sun**, and Q. Xue. *Technical Report* (2022) [Talk](assets/img/pv_slides.pdf)
+* **[Model Drift Detection](assets/img/mdd.pdf)**
+  * **T. Sun**. *Technical Report* (2021)
+* **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)**
+  * **T. Sun**. *Idea* (2021)
+* **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**
+  * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
 
 **Conference Attended** ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
 
