@@ -4,7 +4,7 @@
   * Gave a talk in [UChicago ML group](https://voices.uchicago.edu/machinelearning/). Feb 17, 2023, Crerar 390.
  
 * **[Matroids and Sampling in Topological Data Analysis]()**
-  * **T. Sun**. *Master's thesis submitted to the Department of Committee on Computational and Applied Mathematics* 
+  * **T. Sun**. *Master's thesis submitted to Committee on Computational and Applied Mathematics* 
   * Defended my thesis on Monday, Feb 13, 2023, 11:30am, Jones 304 and submitted it on Feb 15, 2023.
  
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/10.1145/3581641.3584067)**
