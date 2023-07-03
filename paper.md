@@ -1,7 +1,7 @@
 #### Publication & Preprint
 * **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767.pdf)**
   * **T. Sun**, A. Hands, and R. Kondor. 
-  * Gave a talk in UChicago ML group. Feb 17, 2023, Crerar 390.
+  * Gave a talk in [UChicago ML group](https://voices.uchicago.edu/machinelearning/). Feb 17, 2023, Crerar 390.
  
 * **[Matroids and Sampling in Topological Data Analysis]()**
   * **T. Sun**. *Master's thesis submitted to the Department of Committee on Computational and Applied Mathematics* 
