@@ -84,7 +84,7 @@ share-links-active:
 # url-pretty: "AboutMe"
 
 # Create a "tags" index page and make tags on each post clickable
-link-tags: true
+# link-tags: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 200
