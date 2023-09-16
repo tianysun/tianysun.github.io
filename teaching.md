@@ -4,7 +4,7 @@ layout: page
 ---
 ![Crepe](/assets/img/teachiii.jpg){: width="30%"}
 #### Teaching Assistant 
-<h2>Teaching Assistant</h2>
+<h3>Teaching Assistant</h3>
 
 **ST1541: Data Science and Big Data Analysis**, Spring 2022, GEC Academy. (Grad course. Presented on a relevant topic and answered questions in weekly OH. Mentored final projects.)<br />
 **ST1220: Introduction to Artificial Intelligence and Computer Vision**, Spring 2022, GEC Academy. (Grad course. Presented on a relevant topic and answered questions in weekly OH. Mentored final projects.)<br />
@@ -13,7 +13,7 @@ layout: page
 
 
 #### Service/Leadership
-<h3>Service/Leadership</h3>
+<h4>Service/Leadership</h4>
 **Vice president candidate**, Tau Sigma National Academic Honor Society, 2020 - 2021<br />
 **Dancing Coordinator**, International Latin Dance Club, 2019 - 2020<br />
 **English Teacher**, Galle, Sri Lanka, 2018<br />
