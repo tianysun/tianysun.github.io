@@ -2,6 +2,10 @@
 layout: page
 
 ---
+<p float="left">
+  <img src="/assets/img/h.jpeg" width="100" />
+</p>
+
 ![Crepe](/assets/img/h.jpeg){: width="15%"}
 
 I am a graduate student in [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/) in [Physical Sciences Division](https://physicalsciences.uchicago.edu/) at [The University of Chicago](https://www.uchicago.edu/).                  
