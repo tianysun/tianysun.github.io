@@ -11,4 +11,4 @@
 * The 3rd place in the 15th Aisa Ballroom Dance Federation International Standard Dance Championship 2012 [📄](assets/img/abdf2.jpg)
 * Gold Medal certificate of International Latin Dance from China Ballroom Dance Federation 2012 [📄](assets/img/gold.jpg)
 * The 2nd place in Chorus Contests of the 13th Beijing Students Art Festival from Beijing Municipal Education Commission 2010 [📄](assets/img/13chorus.jpg)
-* The 3rd place in China Ballroom Dance Federation International Standard Dance Championship 2009 [📄](assets/img/2009cbdf.jpg)
+* The 3rd place in the first Beijing Ballroom Dance Federation International Standard Dance Championship 2009 [📄](assets/img/2009cbdf.jpg)
