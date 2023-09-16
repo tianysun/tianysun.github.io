@@ -4,36 +4,37 @@
   * Gave a talk in [UChicago ML group](https://voices.uchicago.edu/machinelearning/). Feb 17, 2023, Crerar 390.
  
 * **[Matroids and Sampling in Topological Data Analysis]()**
-  * **T. Sun**. *Master's thesis submitted to Committee on Computational and Applied Mathematics* 
+  * **T. Sun**. *Thesis submitted to Committee on Computational and Applied Mathematics* 
   * Defended on Monday, Feb 13, 2023, 11:30am, Jones 304 and submitted on Feb 15, 2023.
  
 * **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/10.1145/3581641.3584067)**
-  * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. Proceedings of *the 28th ACM Conference on Intelligent User Interfaces* (IUI2023)
+  * Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li. *The 28th ACM Conference on Intelligent User Interfaces*
 
 * **[On the Truth Assignment Theorem of the Language of Sentential Logic](https://arxiv.org/abs/2303.10750)**
-  * **T. Sun**. *Senior Capstone Project submitted to the Department of Mathematics* (2021)
+  * **T. Sun**. *Senior Capstone Project submitted to School of Mathematics. 2021*
 
 * **[A Study Of Natural Language Understanding](/assets/img/UROP.pdf)**
-  * **T. Sun**. Received *Undergraduate Research Award from OUR* (2021)
-  * Gave a [talk](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium) at University of Minnesota Undergraduate Research Symposium
+  * **T. Sun**. *Undergraduate Research Award from OUR. 2021*
+  * Gave a [talk](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium) at UMN Undergraduate Research Symposium
 
 * **[How Personal Perceptions of COVID-19 Have Changed Over Time](/assets/img/aaai2021.pdf)** 
-  * **T. Sun**. Submitted to *the 35th AAAI Conference on Artificial Intelligence* (AAAI2021)
+  * **T. Sun**. *The 35th Association for the Advancement of Artificial Intelligence*
   * Gave a [talk](assets/img/aaaislides.pdf) at the UMN Chatbot group 
 
 * **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](https://arxiv.org/abs/2303.11936)**
-  * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. Submitted to *Society for Industrial and Applied Mathematics* (SIAM2021)
+  * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. *Society for Industrial and Applied Mathematics. 2021*
 
 #### Report
 * **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)**
-  * **T. Sun**, and Q. Xue. *Technical Report* (2022) [Talk](assets/img/pv_slides.pdf)
+  * **T. Sun**, and Q. Xue. *2022*. Gave a [Talk](assets/img/pv_slides.pdf) at final research symposium
 * **[Model Drift Detection](assets/img/mdd.pdf)**
-  * **T. Sun**. *Technical Report* (2021)
+  * **T. Sun**. *2022*
 * **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)**
-  * **T. Sun**. *Idea* (2021)
+  * **T. Sun**. *2021*
 * **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**
-  * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. (2020)
+  * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. *2020*
 
-**Conference Attended** ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
+### Service
+**Conference** ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
 
 **Reviewer** CHI2023
