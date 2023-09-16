@@ -13,6 +13,7 @@ layout: page
 
 
 #### Service/Leadership
+<h3>Service/Leadership</h3>
 **Vice president candidate**, Tau Sigma National Academic Honor Society, 2020 - 2021<br />
 **Dancing Coordinator**, International Latin Dance Club, 2019 - 2020<br />
 **English Teacher**, Galle, Sri Lanka, 2018<br />
