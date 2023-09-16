@@ -13,4 +13,4 @@ I enjoyed the time while I was in International Latin Dance Club at UMN. Fifteen
 ![Crepe](/assets/img/teachiii.jpg){: width="50%"}
 ![Crepe](/assets/img/15561605411207_.pic.jpg){: width="50%"}
 
-In the second year of high school, I won the second place in 1km running race. I was excited and took a picture with my firends who won on others. Running makes me relaxed and recharged. I could keep going while facing difficulties. I like swimming, biking, and working out too~
+In the second year of high school, I won the second place in 1km running race. I was excited and took a picture with my firends who won on others. Running makes me relaxed and recharged. I could keep going while facing difficulties. I like swimming, cycling, and working out too.
