@@ -2,7 +2,6 @@
 layout: page
 
 ---
-![Crepe](/assets/img/head.jpg){: width="30%"}
 
 I am a graduate student in [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/) in [Physical Sciences Division](https://physicalsciences.uchicago.edu/) at [The University of Chicago](https://www.uchicago.edu/).                  
 
