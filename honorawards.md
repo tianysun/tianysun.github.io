@@ -1,6 +1,6 @@
 #### Academic
-* Undergraduate Research Award ($1,500) 2021 [📄](assets/img/UROP award letterhead.pdf) 
-* Maroon Global Excellence Scholarship ($15,000) 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
+* Undergraduate Research Award 2021 [📄](assets/img/UROP award letterhead.pdf) 
+* Maroon Global Excellence Scholarship 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
 * Tau Sigma National Academic Honor Society 2019 - 2021 [📄](assets/img/tau sigma.JPG)
 * Dean’s List 2018 - 2021
 
