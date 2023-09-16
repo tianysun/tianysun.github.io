@@ -1,3 +1,7 @@
+---
+layout: page
+
+---
 ### Publication
 **T. Sun**, A. Hands, and R. Kondor, **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767.pdf)**, Gave a talk in [UChicago ML group](https://voices.uchicago.edu/machinelearning/), Feb 17, 2023, Crerar 390
 
