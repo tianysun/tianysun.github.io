@@ -20,4 +20,4 @@ The 3rd place in **the first Beijing International Standard Dance Championship**
 
 ![Crepe](/assets/img/head.jpeg){: width="19.5%"}![Crepe](/assets/img/dancefest.jpg){: width="44%"}![Crepe](/assets/img/15561605411207_.pic.jpg){: width="33%"}
 
-In the second year of high school, I won the second place in 1km running race. I was excited and took a picture with my firends who won on others. Running makes me relaxed and recharged. I could keep going while facing difficulties. I like swimming, cycling, and working out too.
+In the second year of high school, I won the second place in 1km running race. I was excited and took a picture with my firends who won on others. Running makes me relaxed and recharged. I could keep going while facing difficulties.
