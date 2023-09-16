@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img align="left" src="/assets/img/dancefest.jpg" width="600" />
-  <img align="left" src="/assets/img/ncdc.jpg" width="600" />
+  <img align="left" src="/assets/img/dancefest.jpg" width="500" />
+  <img align="left" src="/assets/img/ncdc.jpg" width="500" />
 I enjoyed the time while I was in International Latin Dance Club at UMN. Fifteen years' dance training makes me passionate, energetic, and persistent. Besides dancing, I like swimming, cycling, and working out too.
 </p>
