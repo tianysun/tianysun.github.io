@@ -13,14 +13,13 @@ Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li, **[An Empirical Stu
  
 C. Brown, S. Milstein, **T. Sun**, and C. Zhao, **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](https://arxiv.org/abs/2303.11936)**, *Society for Industrial and Applied Mathematics, 2021*
 
+
 #### Report
 **T. Sun**, and Q. Xue, **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)**, *2022*, Gave a [Talk](assets/img/pv_slides.pdf) at final research symposium
-
 **T. Sun**, **[Model Drift Detection](assets/img/mdd.pdf)**, *2022*
-
 **T. Sun**, **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)**, *2021*
-
 K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield, **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**, *2020*
+
 
 #### Service
 **Conference** ACL2020, NeurIPS2020, AAAI2021, CBMS2022, CHI2023, CSCW2023
