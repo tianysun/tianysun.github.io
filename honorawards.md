@@ -2,8 +2,7 @@
 layout: page
 
 ---
-![Crepe](/assets/img/head.jpeg){: width="15%"}![Crepe](/assets/img/15561605411207_.pic.jpg){: width="20%"}![Crepe](/assets/img/dancefest.jpg){: width="25%"}
-![Crepe](/assets/img/ncdc.jpg){: width="25%"}
+![Crepe](/assets/img/head.jpeg){: width="15%"}![Crepe](/assets/img/15561605411207_.pic.jpg){: width="23%"}![Crepe](/assets/img/dancefest.jpg){: width="28%"}![Crepe](/assets/img/ncdc.jpg){: width="28%"}
 
 #### Academic
 **Undergraduate Research Award**, 2021 [📄](assets/img/UROP award letterhead.pdf)<br />
