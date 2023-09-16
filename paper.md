@@ -2,7 +2,7 @@
 layout: page
 
 ---
-### Publication
+#### Publication
 **T. Sun**, A. Hands, and R. Kondor, **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767.pdf)**, Gave a talk in [UChicago ML group](https://voices.uchicago.edu/machinelearning/), Feb 17, 2023, Crerar 390
 
 **T. Sun**, **[Matroids and Sampling in Topological Data Analysis]()**, *Thesis submitted to Committee on Computational and Applied Mathematics*, Defended on Monday, Feb 13, 2023, 11:30am, Jones 304, and submitted on Feb 15, 2023
@@ -18,7 +18,7 @@ Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li, **[An Empirical Stu
 C. Brown, S. Milstein, **T. Sun**, and C. Zhao, **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](https://arxiv.org/abs/2303.11936)**, *Society for Industrial and Applied Mathematics, 2021*
 
 
-### Report
+#### Report
 **T. Sun**, and Q. Xue, **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)**, *2022*, Gave a [Talk](assets/img/pv_slides.pdf) at final research symposium
 
 **T. Sun**, **[Model Drift Detection](assets/img/mdd.pdf)**, *2022*
