@@ -13,8 +13,6 @@ layout: page
 
 
 #### Service/Leadership
-**Conference** ACL2020, NeurIPS2020, AAAI2021, CBMS2022, CHI2023, CSCW2023
-
 **Vice president candidate**, Tau Sigma National Academic Honor Society, 2020 - 2021
 
 **Dancing Coordinator**, International Latin Dance Club, 2019 - 2020
