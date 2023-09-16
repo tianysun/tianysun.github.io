@@ -4,6 +4,7 @@
 
 **T. Sun**, **[Matroids and Sampling in Topological Data Analysis]()** *Thesis submitted to Committee on Computational and Applied Mathematics* 
 * Defended on Monday, Feb 13, 2023, 11:30am, Jones 304 and submitted on Feb 15, 2023
+
 Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li, **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/10.1145/3581641.3584067)** *The 28th ACM Conference on Intelligent User Interfaces*
 
 **T. Sun**, **[On the Truth Assignment Theorem of the Language of Sentential Logic](https://arxiv.org/abs/2303.10750)** *Senior Capstone Project submitted to School of Mathematics. 2021*
