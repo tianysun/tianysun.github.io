@@ -1,4 +1,4 @@
-### Publication & Preprint
+#### Publication & Preprint
 * **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767.pdf)**
   * **T. Sun**, A. Hands, and R. Kondor. 
   * Gave a talk in [UChicago ML group](https://voices.uchicago.edu/machinelearning/). Feb 17, 2023, Crerar 390
@@ -24,7 +24,7 @@
 * **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](https://arxiv.org/abs/2303.11936)**
   * C. Brown, S. Milstein, **T. Sun**, and C. Zhao. *Society for Industrial and Applied Mathematics. 2021*
 
-### Report
+#### Report
 * **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)**
   * **T. Sun**, and Q. Xue. *2022*. Gave a [Talk](assets/img/pv_slides.pdf) at final research symposium
 * **[Model Drift Detection](assets/img/mdd.pdf)**
@@ -34,5 +34,5 @@
 * **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. *2020*
 
-### Service
+#### Service
 **Conference** ACL2020, NeurIPS2020, AAAI2021, CBMS2022, CHI2023, CSCW2023
