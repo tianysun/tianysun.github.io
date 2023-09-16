@@ -1,10 +1,10 @@
-#### Academic
+### Academic
 * Undergraduate Research Award 2021 [📄](assets/img/UROP award letterhead.pdf) 
 * Maroon Global Excellence Scholarship 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
 * Tau Sigma National Academic Honor Society 2019 - 2021 [📄](assets/img/tau sigma.JPG)
 * Dean’s List 2018 - 2021
 
-#### Extra
+### Extra
 * The 2nd place in National Collegiate DanceSport Championships J/C/R, Chicago 2019 
 * The 2nd place in Dance Fest Silver S/C/R, St. Paul, Minneapolis 2019
 * The 1st place in Chorus Contests of the 15th Beijing Students Art Festival from Beijing Municipal Education Commission 2015 [📄](assets/img/15chorus.jpg)
