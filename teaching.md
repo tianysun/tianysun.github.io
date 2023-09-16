@@ -1,4 +1,7 @@
+---
+layout: page
 
+---
 ### Teaching Assistant 
 **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them**, Spring 2022, GEC Academy. (Undergrad course. Presented on a relevant topic and answered questions in weekly OH. Provided homework solutions. Mentored final projects.)
 
