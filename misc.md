@@ -8,8 +8,8 @@
 </p>
 
 <p>
-  <img align="left" src="/assets/img/dancefest.jpg" width="560" />
-  <img align="left" src="/assets/img/ncdc.jpg" width="560" />
+  <img align="left" src="/assets/img/dancefest.jpg" width="570" />
+  <img align="left" src="/assets/img/ncdc.jpg" width="570" />
   <br>
 I enjoyed the time while I was in International Latin Dance Club at UMN. Fifteen years' dance training makes me passionate, energetic, and persistent. Besides dancing, I like swimming, cycling, and working out too.
 </p>
