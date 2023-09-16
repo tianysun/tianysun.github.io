@@ -2,6 +2,7 @@
 layout: page
 
 ---
+![Crepe](/assets/img/teachiii.jpg){: width="30%"}
 #### Teaching Assistant 
 **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them**, Spring 2022, GEC Academy. (Undergrad course. Presented on a relevant topic and answered questions in weekly OH. Provided homework solutions. Mentored final projects.)<br />
 **ST1541: Data Science and Big Data Analysis**, Spring 2022, GEC Academy. (Grad course. Presented on a relevant topic and answered questions in weekly OH. Mentored final projects.)<br />
