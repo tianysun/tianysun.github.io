@@ -1,5 +1,5 @@
 
-#### Teaching Assistant at GEC Academy
+#### Teaching Assistant at GEC Academy 
 Presented on a relevant topic and answered questions in weekly office hours. Provided homework solutions. Mentored final projects.
 * **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them** Spring 2022
   * Undergraduate course. 
