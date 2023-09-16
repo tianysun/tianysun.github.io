@@ -14,7 +14,7 @@
   * *Graduate course; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015).*
 
 #### Service/Leadership
-* **Vice president candidate**, in Tau Sigma National Academic Honor Society, the University of Minnesota Chapter *2020 - 2021*
-* **Dancing Coordinator**, in International Latin Dance Club, the University of Minnesota *2019 - 2020*
+* **Vice president candidate**, in Tau Sigma National Academic Honor Society *2020 - 2021*
+* **Dancing Coordinator**, in International Latin Dance Club *2019 - 2020*
 * **English Teacher**, in Galle, Sri Lanka *Winter 2018*
-* **Vice president**, in Central University of Finance and Economics Students Union, Beijing *2016 - 2018* [📄](assets/img/Best Planning Award.jpg)
+* **Vice president**, in Central University of Finance and Economics Students Union *2016 - 2018* [📄](assets/img/Best Planning Award.jpg)
