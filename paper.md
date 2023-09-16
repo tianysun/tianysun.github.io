@@ -35,6 +35,5 @@
   * K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield. *2020*
 
 ### Service
-**Conference** ACL2020, NeurIPS2020, AAAI2021(funded & membership), VSU CBMS2022(funded).
-
+**Conference** ACL2020, NeurIPS2020, AAAI2021, CBMS2022.
 **Reviewer** CHI2023
