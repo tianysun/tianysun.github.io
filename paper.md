@@ -20,4 +20,5 @@ C. Brown, S. Milstein, **T. Sun**, and C. Zhao, **[Clustering US Counties to Fin
 **T. Sun**, **[Model Drift Detection](assets/img/mdd.pdf)**, *2022*
 
 **T. Sun**, **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)**, *2021*
+
 K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield, **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**, *2020*
