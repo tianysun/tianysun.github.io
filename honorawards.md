@@ -2,7 +2,7 @@
 layout: page
 
 ---
-### Academic
+#### Academic
 Undergraduate Research Award 2021 [📄](assets/img/UROP award letterhead.pdf) 
 
 Maroon Global Excellence Scholarship 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)
@@ -11,7 +11,7 @@ Tau Sigma National Academic Honor Society 2019 - 2021 [📄](assets/img/tau sigm
 
 Dean’s List 2018 - 2021
 
-### Extra
+#### Extra
 The 2nd place in National Collegiate DanceSport Championships J/C/R, Chicago 2019 
 
 The 2nd place in Dance Fest Silver S/C/R, St. Paul, Minneapolis 2019
