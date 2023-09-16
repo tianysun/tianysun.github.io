@@ -18,6 +18,6 @@ The 3rd place in **the 5th International Standard Dance Championship** from Aisa
 The 2nd place in **Chorus Contests of the 13th Beijing Students Art Festival** from Beijing Municipal Education Commission 2010 [📄](assets/img/13chorus.jpg)<br />
 The 3rd place in **the first Beijing International Standard Dance Championship** from China Ballroom Dance Federation 2009 [📄](assets/img/2009cbdf.jpg)
 
-![Crepe](/assets/img/head.jpeg){: width="20%"}![Crepe](/assets/img/dancefest.jpg){: width="44%"}![Crepe](/assets/img/15561605411207_.pic.jpg){: width="33%"}
+![Crepe](/assets/img/head.jpeg){: width="19%"}![Crepe](/assets/img/dancefest.jpg){: width="44%"}![Crepe](/assets/img/15561605411207_.pic.jpg){: width="33%"}
 
 In the second year of high school, I won the second place in 1km running race. I was excited and took a picture with my firends who won on others. Running makes me relaxed and recharged. I could keep going while facing difficulties. I like swimming, cycling, and working out too.
