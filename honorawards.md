@@ -2,7 +2,7 @@
 layout: page
 
 ---
-![Crepe](/assets/img/head.jpg){: width="30%"}![Crepe](/assets/img/teachiii.jpg){: width="30%"}![Crepe](/assets/img/15561605411207_.pic.jpg){: width="30%"}
+![Crepe](/assets/img/head.jpg){: width="30%"}![Crepe](/assets/img/15561605411207_.pic.jpg){: width="30%"}
 #### Academic
 **Undergraduate Research Award**, 2021 [📄](assets/img/UROP award letterhead.pdf)<br />
 **Maroon Global Excellence Scholarship**, 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)<br />
