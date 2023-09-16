@@ -2,8 +2,7 @@
 layout: page
 
 ---
-![Crepe](/assets/img/15561605411207_.pic.jpg){: width="23%"}![Crepe](/assets/img/head.jpeg){: width="13%"}![Crepe](/assets/img/dancefest.jpg){: width="29%"}![Crepe](/assets/img/ncdc.jpg){: width="29%"}
-
+![Crepe](/assets/img/15561605411207_.pic.jpg){: width="23%"}![Crepe](/assets/img/head.jpeg){: width="13%"}![Crepe](/assets/img/dancefest.jpg){: width="29%"}
 #### Academic
 **Undergraduate Research Award**, 2021 [📄](assets/img/UROP award letterhead.pdf)<br />
 **Maroon Global Excellence Scholarship**, 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)<br />
