@@ -3,10 +3,10 @@ layout: page
 
 ---
 #### Academic
-Undergraduate Research Award 2021 [📄](assets/img/UROP award letterhead.pdf)<br />
-Maroon Global Excellence Scholarship 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)<br />
-Tau Sigma National Academic Honor Society 2019 - 2021 [📄](assets/img/tau sigma.JPG)<br />
-Dean’s List 2018 - 2021
+**Undergraduate Research Award**, 2021 [📄](assets/img/UROP award letterhead.pdf)<br />
+**Maroon Global Excellence Scholarship**, 2018 - 2021 [📄](assets/img/Maroon Global Excellence Scholarship.pdf)<br />
+**Tau Sigma National Academic Honor Society**, 2019 - 2021 [📄](assets/img/tau sigma.JPG)<br />
+**Dean’s List**, 2018 - 2021
 
 #### Extra
 The 2nd place in National Collegiate DanceSport Championships J/C/R, Chicago 2019<br />
