@@ -5,12 +5,12 @@ I was so excited in the first several days at the University of Minnesota, I met
 <br>
 <br>
 <br><br>
-<img align="left" src="/assets/img/roclim.jpg" width="200" />
-<img align="left" src="/assets/img/roclimi.jpg" width="200" />
+<img align="left" src="/assets/img/roclim.jpg" width="100" />
+<img align="left" src="/assets/img/roclimi.jpg" width="100" />
 <br>
 <br>
 <br>
 <br><br>
-<img align="left" src="/assets/img/dancefest.jpg" width="200" />
-<img align="left" src="/assets/img/ncdc.jpg" width="200" />
+<img align="left" src="/assets/img/dancefest.jpg" width="100" />
+<img align="left" src="/assets/img/ncdc.jpg" width="100" />
 I enjoyed the time while I was in International Latin Dance Club at UMN. Fifteen years' dance training makes me passionate, energetic, and persistent. Besides dancing, I like swimming, cycling, and working out too.
