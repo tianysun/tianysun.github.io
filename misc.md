@@ -9,9 +9,4 @@ I was so excited in the first several days at the University of Minnesota, I met
 ![Crepe](/assets/img/dancefest.jpg){: width="50%"}
 ![Crepe](/assets/img/ncdc.jpg){: width="50%"}
 
-I enjoyed the time while I was in International Latin Dance Club at UMN. Fifteen years' dance training makes me passionate, energetic, and persistent.
-
-![Crepe](/assets/img/teachiii.jpg){: width="50%"}
-![Crepe](/assets/img/15561605411207_.pic.jpg){: width="50%"}
-
-In the second year of high school, I won the second place in 1km running race. I was excited and took a picture with my firends who won on others. Running makes me relaxed and recharged. I could keep going while facing difficulties. I like swimming, cycling, and working out too.
+I enjoyed the time while I was in International Latin Dance Club at UMN. Fifteen years' dance training makes me passionate, energetic, and persistent. Besides dancing, I like swimming, cycling, and working out too.
