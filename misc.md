@@ -3,10 +3,12 @@
   <img align="left" src="/assets/img/welcomeweek1.jpg" width="400" />
 I was so excited in the first several days at the University of Minnesota, I met lots of people and my second year's roomate at the U! I felt a sense of belongings!
 </p>
+
 <p>
   <img align="left" src="/assets/img/roclim.jpg" width="100" />
   <img align="left" src="/assets/img/roclimi.jpg" width="100" />
 </p>
+
 <p>
   <img align="left" src="/assets/img/dancefest.jpg" width="100" />
   <img align="left" src="/assets/img/ncdc.jpg" width="100" />
