@@ -1,5 +1,5 @@
 
-#### Teaching Assistant at GEC Academy
+### Teaching Assistant at GEC Academy
 Presented on a relevant topic and answered questions in weekly office hours. Provided homework solutions. Mentored final projects.
 * **ST2203: Puzzles, Paradoxes, and The Mathematics Behind Them** Spring 2022
   * Undergraduate course. 
@@ -8,12 +8,12 @@ Presented on a relevant topic and answered questions in weekly office hours. Pro
 * **ST1220: Introduction to Artificial Intelligence and Computer Vision** Winter 2021
   * Graduate course.
 
-#### Grader at UChicago
+### Grader at UChicago
 Developed rubrics. Graded homework assignments.
 * **STAT31015: Mathematical Computation IIA: Convex Optimization** Winter 2021
   * Graduate course. The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015).
 
-#### Service/Leadership
+### Service/Leadership
 * **Vice president candidate**, in Tau Sigma National Academic Honor Society 2020 - 2021
 * **Dancing Coordinator**, in International Latin Dance Club 2019 - 2020
 * **English Teacher**, in Galle, Sri Lanka 2018
