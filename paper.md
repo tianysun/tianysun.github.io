@@ -2,7 +2,7 @@
 layout: page
 
 ---
-#### Publication
+<h3>Publications</h3>
 **T. Sun**, A. Hands, and R. Kondor, **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767.pdf)**, 2023<br />
 **T. Sun**, **[Matroids and Sampling in Topological Data Analysis]()**, *Thesis submitted to Committee on Computational and Applied Mathematics, Feb 15, 2023*<br />
 Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li, **[An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](https://dl.acm.org/doi/10.1145/3581641.3584067)**, *The 28th ACM Conference on Intelligent User Interfaces*<br />
@@ -12,14 +12,16 @@ Z. Ning, Z. Zhang, **T. Sun**, Y. Tian, T. Zhang, and T. Li, **[An Empirical Stu
 C. Brown, S. Milstein, **T. Sun**, and C. Zhao, **[Clustering US Counties to Find Patterns Related to the COVID-19 Pandemic](https://arxiv.org/abs/2303.11936)**, *Society for Industrial and Applied Mathematics, 2021*<br />
 
 
-#### Report
+<h3>Reports</h3>
+
 **T. Sun**, and Q. Xue, **[Paragraph Vector](assets/img/Paragraph_Vector.pdf)**, *2022*<br />
 **T. Sun**, **[Model Drift Detection](assets/img/mdd.pdf)**, *2022*<br />
 **T. Sun**, **[Vision Transformer Pruning Via Matrix Decomposition](assets/img/VT.pdf)**, *2021*<br />
 K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield, **[A survey of compartmental disease models for predicting the progression of COVID-19](assets/img/survey.pdf)**, *2020*<br />
 
 
-#### Talk
+<h3>Talks</h3>
+
 **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767.pdf)**, [UChicago ML group](https://voices.uchicago.edu/machinelearning/), Feb 17, 2023, Crerar 390<br />
 **[Matroids and Sampling in Topological Data Analysis]()**, Monday, Feb 13, 2023, 11:30am, Jones 304<br />
 **[Paragraph Vector](assets/img/pv_slides.pdf)**, 2022<br />
@@ -27,5 +29,6 @@ K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield, **[A survey of c
 **[How Personal Perceptions of COVID-19 Have Changed Over Time](assets/img/aaaislides.pdf)**, 2021
 
 
-#### Service
+<h3>Service</h3>
+
 **Conference** ACL2020, NeurIPS2020, AAAI2021, CBMS2022, CHI2023, CSCW2023
