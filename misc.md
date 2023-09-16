@@ -6,7 +6,7 @@
   <img align="left" src="/assets/img/roclimi.jpg" width="570" />
   <img align="left" src="/assets/img/roclim.jpg" width="570" />
 </p>
-<br>
+<br clear="left"/>
 <p>
   <img align="left" src="/assets/img/dancefest.jpg" width="570" />
   <img align="left" src="/assets/img/ncdc.jpg" width="570" />
