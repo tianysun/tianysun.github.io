@@ -9,9 +9,9 @@ Presented on a relevant topic and answered questions in weekly office hours. Pro
   * Graduate course.
 
 #### Grader at UChicago
-Developed rubrics; Graded homework assignments.
+Developed rubrics. Graded homework assignments.
 * **STAT31015: Mathematical Computation IIA: Convex Optimization** Winter 2021
-  * Graduate course; The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015).
+  * Graduate course. The second required course in the Computational Mathematics Track of [CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015).
 
 #### Service/Leadership
 * **Vice president candidate**, in Tau Sigma National Academic Honor Society 2020 - 2021
