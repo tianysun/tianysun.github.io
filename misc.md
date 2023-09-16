@@ -2,7 +2,7 @@
   <img align="left" src="/assets/img/welcomeweek3.jpg" width="200" />
   <img align="left" src="/assets/img/welcomeweek1.jpg" width="350" />
   <img align="left" src="/assets/img/roclim.jpg" width="300" />
-  <img align="left" src="/assets/img/roclimi.jpg" width="300" />
+  <img align="left" src="/assets/img/roclimi.jpg" width="280" />
 I was so excited in the first several days at the University of Minnesota, I met lots of people and my second year's roomate at the U! I felt a sense of belongings!
 </p>
 
