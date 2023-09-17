@@ -17,7 +17,6 @@ layout: page
 * The 2nd place in **Dance Fest** Silver S/C/R, St. Paul, Minneapolis 2019<br />
 * The 1st place in **Chorus Contests of the 15th Beijing Students Art Festival** from Beijing Municipal Education Commission 2015 [📄](assets/img/15chorus.jpg)<br />
 <img align="right" src="/assets/img/dancefest.jpg" width="200" />
-
 * The 3rd place in **the 5th International Standard Dance Championship** from Aisa Ballroom Dance Federation and Asian Dancesport Union 2012 [📄](assets/img/abdf2.jpg)<br />
 * **Gold Medal certificate of Latin American Dance** from China Ballroom Dance Federation 2012 [📄](assets/img/gold.jpg)<br />
 * The 2nd place in **Chorus Contests of the 13th Beijing Students Art Festival** from Beijing Municipal Education Commission 2010 [📄](assets/img/13chorus.jpg)<br />
