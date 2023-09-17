@@ -11,7 +11,7 @@ layout: page
 **STAT31015: Mathematical Computation IIA: Convex Optimization**, Winter 2021, UChicago. (The second required grad course in [Computational Math Track of CAM Curriculum](https://voices.uchicago.edu/cammasters/course-offerings/#caam31015). Developed rubrics. Graded homework assignments.)
 
 
-<h3>Service/Leadership</h3>
+<h3>Outreach/Leadership</h3>
 
 **Vice president candidate**, Tau Sigma National Academic Honor Society, 2020 - 2021<br />
 **Dancing Coordinator**, International Latin Dance Club, 2019 - 2020<br />
