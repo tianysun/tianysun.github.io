@@ -23,7 +23,7 @@ K. Mai, **T. Sun**, H. Ghonia, S. Ke, C. Yu, and J. Broomfield, **[A survey of c
 <h3>Talks</h3>
 
 **[Permutation Equivariance in Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767.pdf)**, [UChicago ML group](https://voices.uchicago.edu/machinelearning/), Feb 17, 2023, Crerar 390<br />
-**[Matroids and Sampling in Topological Data Analysis]()**, Monday, Feb 13, 2023, 11:30am, Jones 304<br />
+**[Matroids and Sampling in Topological Data Analysis]()**, Defensed on Monday, Feb 13, 2023, 11:30am, Jones 304<br />
 **[Paragraph Vector](assets/img/pv_slides.pdf)**, 2022<br />
 **[Using Meta-Learning to address the task-agnostic problem in Natural Language Understanding](https://cse.umn.edu/cs/news/three-students-present-spring-undergraduate-research-symposium)**, 2021<br />
 **[How Personal Perceptions of COVID-19 Have Changed Over Time](assets/img/aaaislides.pdf)**, 2021
